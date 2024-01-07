@@ -1,0 +1,2068 @@
+[
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "multiprocessing",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "distributed",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn.functional",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn.functional",
+        "description": "torch.nn.functional",
+        "detail": "torch.nn.functional",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "load_dataset",
+        "importPath": "datasets",
+        "description": "datasets",
+        "isExtraImport": true,
+        "detail": "datasets",
+        "documentation": {}
+    },
+    {
+        "label": "Accelerator",
+        "importPath": "accelerate",
+        "description": "accelerate",
+        "isExtraImport": true,
+        "detail": "accelerate",
+        "documentation": {}
+    },
+    {
+        "label": "Accelerator",
+        "importPath": "accelerate",
+        "description": "accelerate",
+        "isExtraImport": true,
+        "detail": "accelerate",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Trainer",
+        "importPath": "train",
+        "description": "train",
+        "isExtraImport": true,
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "Trainer",
+        "importPath": "train",
+        "description": "train",
+        "isExtraImport": true,
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "Trainer",
+        "importPath": "train",
+        "description": "train",
+        "isExtraImport": true,
+        "detail": "train",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "define",
+        "importPath": "attrs",
+        "description": "attrs",
+        "isExtraImport": true,
+        "detail": "attrs",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "attrs",
+        "description": "attrs",
+        "isExtraImport": true,
+        "detail": "attrs",
+        "documentation": {}
+    },
+    {
+        "label": "define",
+        "importPath": "attrs",
+        "description": "attrs",
+        "isExtraImport": true,
+        "detail": "attrs",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "attrs",
+        "description": "attrs",
+        "isExtraImport": true,
+        "detail": "attrs",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "ArgumentParser",
+        "importPath": "argparse",
+        "description": "argparse",
+        "isExtraImport": true,
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "ArgumentDefaultsHelpFormatter",
+        "importPath": "argparse",
+        "description": "argparse",
+        "isExtraImport": true,
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "ArgumentParser",
+        "importPath": "argparse",
+        "description": "argparse",
+        "isExtraImport": true,
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "ArgumentDefaultsHelpFormatter",
+        "importPath": "argparse",
+        "description": "argparse",
+        "isExtraImport": true,
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "torch.distributed",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.distributed",
+        "description": "torch.distributed",
+        "detail": "torch.distributed",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedDict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedDict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "accThroughOnlyOnce",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "contextlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "contextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "functools",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "functools",
+        "description": "functools",
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "overload",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Sequence",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "ContextManager",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Literal",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "final",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "DistributedDataParallel",
+        "importPath": "torch.nn.parallel.distributed",
+        "description": "torch.nn.parallel.distributed",
+        "isExtraImport": true,
+        "detail": "torch.nn.parallel.distributed",
+        "documentation": {}
+    },
+    {
+        "label": "DistributedDataParallel",
+        "importPath": "torch.nn.parallel.distributed",
+        "description": "torch.nn.parallel.distributed",
+        "isExtraImport": true,
+        "detail": "torch.nn.parallel.distributed",
+        "documentation": {}
+    },
+    {
+        "label": "is_available",
+        "importPath": "torch.cuda",
+        "description": "torch.cuda",
+        "isExtraImport": true,
+        "detail": "torch.cuda",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "wandb",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "wandb",
+        "description": "wandb",
+        "detail": "wandb",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "validator",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "bool_validator",
+        "importPath": "pydantic.validators",
+        "description": "pydantic.validators",
+        "isExtraImport": true,
+        "detail": "pydantic.validators",
+        "documentation": {}
+    },
+    {
+        "label": "copy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "copy",
+        "description": "copy",
+        "detail": "copy",
+        "documentation": {}
+    },
+    {
+        "label": "blobfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "blobfile",
+        "description": "blobfile",
+        "detail": "blobfile",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "AdamW",
+        "importPath": "torch.optim",
+        "description": "torch.optim",
+        "isExtraImport": true,
+        "detail": "torch.optim",
+        "documentation": {}
+    },
+    {
+        "label": "dist_util",
+        "importPath": "basic_utils",
+        "description": "basic_utils",
+        "isExtraImport": true,
+        "detail": "basic_utils",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "importPath": "basic_utils",
+        "description": "basic_utils",
+        "isExtraImport": true,
+        "detail": "basic_utils",
+        "documentation": {}
+    },
+    {
+        "label": "record",
+        "importPath": "torch.distributed.elastic.multiprocessing.errors",
+        "description": "torch.distributed.elastic.multiprocessing.errors",
+        "isExtraImport": true,
+        "detail": "torch.distributed.elastic.multiprocessing.errors",
+        "documentation": {}
+    },
+    {
+        "label": "TrainSettings",
+        "importPath": "config.train",
+        "description": "config.train",
+        "isExtraImport": true,
+        "detail": "config.train",
+        "documentation": {}
+    },
+    {
+        "label": "torch.multiprocessing",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.multiprocessing",
+        "description": "torch.multiprocessing",
+        "detail": "torch.multiprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "init_distributed_training",
+        "importPath": "ddp_utils",
+        "description": "ddp_utils",
+        "isExtraImport": true,
+        "detail": "ddp_utils",
+        "documentation": {}
+    },
+    {
+        "label": "wrappingModelwithDDP",
+        "importPath": "ddp_utils",
+        "description": "ddp_utils",
+        "isExtraImport": true,
+        "detail": "ddp_utils",
+        "documentation": {}
+    },
+    {
+        "label": "set_seed_ddp",
+        "importPath": "ddp_utils",
+        "description": "ddp_utils",
+        "isExtraImport": true,
+        "detail": "ddp_utils",
+        "documentation": {}
+    },
+    {
+        "label": "throughOnlyOnce",
+        "importPath": "ddp_utils",
+        "description": "ddp_utils",
+        "isExtraImport": true,
+        "detail": "ddp_utils",
+        "documentation": {}
+    },
+    {
+        "label": "DistributedSampler",
+        "importPath": "torch.utils.data.distributed",
+        "description": "torch.utils.data.distributed",
+        "isExtraImport": true,
+        "detail": "torch.utils.data.distributed",
+        "documentation": {}
+    },
+    {
+        "label": "DistributedSampler",
+        "importPath": "torch.utils.data.distributed",
+        "description": "torch.utils.data.distributed",
+        "isExtraImport": true,
+        "detail": "torch.utils.data.distributed",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "DistributedDataParallel",
+        "importPath": "torch.nn.parallel",
+        "description": "torch.nn.parallel",
+        "isExtraImport": true,
+        "detail": "torch.nn.parallel",
+        "documentation": {}
+    },
+    {
+        "label": "DistributedDataParallel",
+        "importPath": "torch.nn.parallel",
+        "description": "torch.nn.parallel",
+        "isExtraImport": true,
+        "detail": "torch.nn.parallel",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "UnionFind",
+        "importPath": "sample_lib",
+        "description": "sample_lib",
+        "isExtraImport": true,
+        "detail": "sample_lib",
+        "documentation": {}
+    },
+    {
+        "label": "deepspeed",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "deepspeed",
+        "description": "deepspeed",
+        "detail": "deepspeed",
+        "documentation": {}
+    },
+    {
+        "label": "DeepSpeedCPUAdam",
+        "importPath": "deepspeed.ops.adam",
+        "description": "deepspeed.ops.adam",
+        "isExtraImport": true,
+        "detail": "deepspeed.ops.adam",
+        "documentation": {}
+    },
+    {
+        "label": "FullyShardedDataParallel",
+        "importPath": "torch.distributed.fsdp",
+        "description": "torch.distributed.fsdp",
+        "isExtraImport": true,
+        "detail": "torch.distributed.fsdp",
+        "documentation": {}
+    },
+    {
+        "label": "CPUOffload",
+        "importPath": "torch.distributed.fsdp",
+        "description": "torch.distributed.fsdp",
+        "isExtraImport": true,
+        "detail": "torch.distributed.fsdp",
+        "documentation": {}
+    },
+    {
+        "label": "FullyShardedDataParallel",
+        "importPath": "torch.distributed.fsdp",
+        "description": "torch.distributed.fsdp",
+        "isExtraImport": true,
+        "detail": "torch.distributed.fsdp",
+        "documentation": {}
+    },
+    {
+        "label": "default_auto_wrap_policy",
+        "importPath": "torch.distributed.fsdp.wrap",
+        "description": "torch.distributed.fsdp.wrap",
+        "isExtraImport": true,
+        "detail": "torch.distributed.fsdp.wrap",
+        "documentation": {}
+    },
+    {
+        "label": "transformer_auto_wrap_policy",
+        "importPath": "torch.distributed.fsdp.wrap",
+        "description": "torch.distributed.fsdp.wrap",
+        "isExtraImport": true,
+        "detail": "torch.distributed.fsdp.wrap",
+        "documentation": {}
+    },
+    {
+        "label": "T5Block",
+        "importPath": "transformers.models.t5.modeling_t5",
+        "description": "transformers.models.t5.modeling_t5",
+        "isExtraImport": true,
+        "detail": "transformers.models.t5.modeling_t5",
+        "documentation": {}
+    },
+    {
+        "label": "accelerator",
+        "kind": 5,
+        "importPath": "accelerate.example",
+        "description": "accelerate.example",
+        "peekOfCode": "accelerator = Accelerator() # add\n# - device = 'cpu'\ndevice = accelerator.device # add\nmodel = torch.nn.Transformer().to(device)\noptimizer = torch.optim.Adam(model.parameters())\nlr_scheduler = ...\ndataset = load_dataset('my_dataset')\ndata = torch.utils.data.DataLoader(dataset, shuffle=True)\nmodel, optimizer, data = accelerator.prepare(model, optimizer, lr_scheduler, data) # add\nmodel.train()",
+        "detail": "accelerate.example",
+        "documentation": {}
+    },
+    {
+        "label": "device",
+        "kind": 5,
+        "importPath": "accelerate.example",
+        "description": "accelerate.example",
+        "peekOfCode": "device = accelerator.device # add\nmodel = torch.nn.Transformer().to(device)\noptimizer = torch.optim.Adam(model.parameters())\nlr_scheduler = ...\ndataset = load_dataset('my_dataset')\ndata = torch.utils.data.DataLoader(dataset, shuffle=True)\nmodel, optimizer, data = accelerator.prepare(model, optimizer, lr_scheduler, data) # add\nmodel.train()\nfor epoch in range(10):\n\tfor source, targets in data:",
+        "detail": "accelerate.example",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "accelerate.example",
+        "description": "accelerate.example",
+        "peekOfCode": "model = torch.nn.Transformer().to(device)\noptimizer = torch.optim.Adam(model.parameters())\nlr_scheduler = ...\ndataset = load_dataset('my_dataset')\ndata = torch.utils.data.DataLoader(dataset, shuffle=True)\nmodel, optimizer, data = accelerator.prepare(model, optimizer, lr_scheduler, data) # add\nmodel.train()\nfor epoch in range(10):\n\tfor source, targets in data:\n\t\t# source = source.to(device)",
+        "detail": "accelerate.example",
+        "documentation": {}
+    },
+    {
+        "label": "optimizer",
+        "kind": 5,
+        "importPath": "accelerate.example",
+        "description": "accelerate.example",
+        "peekOfCode": "optimizer = torch.optim.Adam(model.parameters())\nlr_scheduler = ...\ndataset = load_dataset('my_dataset')\ndata = torch.utils.data.DataLoader(dataset, shuffle=True)\nmodel, optimizer, data = accelerator.prepare(model, optimizer, lr_scheduler, data) # add\nmodel.train()\nfor epoch in range(10):\n\tfor source, targets in data:\n\t\t# source = source.to(device)\n\t\t# targets = targets.to(device)",
+        "detail": "accelerate.example",
+        "documentation": {}
+    },
+    {
+        "label": "lr_scheduler",
+        "kind": 5,
+        "importPath": "accelerate.example",
+        "description": "accelerate.example",
+        "peekOfCode": "lr_scheduler = ...\ndataset = load_dataset('my_dataset')\ndata = torch.utils.data.DataLoader(dataset, shuffle=True)\nmodel, optimizer, data = accelerator.prepare(model, optimizer, lr_scheduler, data) # add\nmodel.train()\nfor epoch in range(10):\n\tfor source, targets in data:\n\t\t# source = source.to(device)\n\t\t# targets = targets.to(device)\n\t\toptimizer.zero_grad()",
+        "detail": "accelerate.example",
+        "documentation": {}
+    },
+    {
+        "label": "dataset",
+        "kind": 5,
+        "importPath": "accelerate.example",
+        "description": "accelerate.example",
+        "peekOfCode": "dataset = load_dataset('my_dataset')\ndata = torch.utils.data.DataLoader(dataset, shuffle=True)\nmodel, optimizer, data = accelerator.prepare(model, optimizer, lr_scheduler, data) # add\nmodel.train()\nfor epoch in range(10):\n\tfor source, targets in data:\n\t\t# source = source.to(device)\n\t\t# targets = targets.to(device)\n\t\toptimizer.zero_grad()\n\t\toutput = model(source)",
+        "detail": "accelerate.example",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "accelerate.example",
+        "description": "accelerate.example",
+        "peekOfCode": "data = torch.utils.data.DataLoader(dataset, shuffle=True)\nmodel, optimizer, data = accelerator.prepare(model, optimizer, lr_scheduler, data) # add\nmodel.train()\nfor epoch in range(10):\n\tfor source, targets in data:\n\t\t# source = source.to(device)\n\t\t# targets = targets.to(device)\n\t\toptimizer.zero_grad()\n\t\toutput = model(source)\n\t\tloss = F.cross_entropy(output, targets)",
+        "detail": "accelerate.example",
+        "documentation": {}
+    },
+    {
+        "label": "\t\toutput",
+        "kind": 5,
+        "importPath": "accelerate.example",
+        "description": "accelerate.example",
+        "peekOfCode": "\t\toutput = model(source)\n\t\tloss = F.cross_entropy(output, targets)\n\t\t# -   loss.backward()\n\t\taccelerator.backward(loss) # add\n\t\toptimizer.step()\n\t\tlr_scheduler.step()",
+        "detail": "accelerate.example",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tloss",
+        "kind": 5,
+        "importPath": "accelerate.example",
+        "description": "accelerate.example",
+        "peekOfCode": "\t\tloss = F.cross_entropy(output, targets)\n\t\t# -   loss.backward()\n\t\taccelerator.backward(loss) # add\n\t\toptimizer.step()\n\t\tlr_scheduler.step()",
+        "detail": "accelerate.example",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "accelerate.main",
+        "description": "accelerate.main",
+        "peekOfCode": "def main(args, config):\n\tglobal accelerator\n\taccelerator = Accelerator()\n\ttrain_dataset = Dataset(...)\t\n\tdevice = accelerator.device\n\t...\n\tmodel, optimizer, train_dataloader, scheduler = accelerator.prepare(model, \n                                                                        optimizer, \n                                                                        train_dataloader, \n                                                                        scheduler)",
+        "detail": "accelerate.main",
+        "documentation": {}
+    },
+    {
+        "label": "\taccelerator",
+        "kind": 5,
+        "importPath": "accelerate.main",
+        "description": "accelerate.main",
+        "peekOfCode": "\taccelerator = Accelerator()\n\ttrain_dataset = Dataset(...)\t\n\tdevice = accelerator.device\n\t...\n\tmodel, optimizer, train_dataloader, scheduler = accelerator.prepare(model, \n                                                                        optimizer, \n                                                                        train_dataloader, \n                                                                        scheduler)\n\ttrainer = Trainer(args, config, device, model, train_dataloader, accelerator, ... )\n\ttrainer()",
+        "detail": "accelerate.main",
+        "documentation": {}
+    },
+    {
+        "label": "\ttrain_dataset",
+        "kind": 5,
+        "importPath": "accelerate.main",
+        "description": "accelerate.main",
+        "peekOfCode": "\ttrain_dataset = Dataset(...)\t\n\tdevice = accelerator.device\n\t...\n\tmodel, optimizer, train_dataloader, scheduler = accelerator.prepare(model, \n                                                                        optimizer, \n                                                                        train_dataloader, \n                                                                        scheduler)\n\ttrainer = Trainer(args, config, device, model, train_dataloader, accelerator, ... )\n\ttrainer()\nif __name__ == \"__main__\":",
+        "detail": "accelerate.main",
+        "documentation": {}
+    },
+    {
+        "label": "\tdevice",
+        "kind": 5,
+        "importPath": "accelerate.main",
+        "description": "accelerate.main",
+        "peekOfCode": "\tdevice = accelerator.device\n\t...\n\tmodel, optimizer, train_dataloader, scheduler = accelerator.prepare(model, \n                                                                        optimizer, \n                                                                        train_dataloader, \n                                                                        scheduler)\n\ttrainer = Trainer(args, config, device, model, train_dataloader, accelerator, ... )\n\ttrainer()\nif __name__ == \"__main__\":\n    args = ...",
+        "detail": "accelerate.main",
+        "documentation": {}
+    },
+    {
+        "label": "\ttrainer",
+        "kind": 5,
+        "importPath": "accelerate.main",
+        "description": "accelerate.main",
+        "peekOfCode": "\ttrainer = Trainer(args, config, device, model, train_dataloader, accelerator, ... )\n\ttrainer()\nif __name__ == \"__main__\":\n    args = ...\n    config = ...\n    main(args, config)",
+        "detail": "accelerate.main",
+        "documentation": {}
+    },
+    {
+        "label": "Trainer",
+        "kind": 6,
+        "importPath": "accelerate.train",
+        "description": "accelerate.train",
+        "peekOfCode": "class Trainer:\n    args: argparse.Namespace\n    config: dict\n    device: torch.device = torch.device(\"cpu\")\n    model: torch.nn.Module\n    train_loader: torch.utils.data.DataLoader\n    val_loader: torch.utils.data.DataLoader\n    optimizer: torch.optim.Optimizer\n    epochs: int = 10\n    accelerator: field(default=None)",
+        "detail": "accelerate.train",
+        "documentation": {}
+    },
+    {
+        "label": "accThroughOnlyOnce",
+        "kind": 2,
+        "importPath": "accelerate.utils",
+        "description": "accelerate.utils",
+        "peekOfCode": "def accThroughOnlyOnce(rank, func):\n    from main import accelerator\n    def wrapper(*args, **kwargs):\n        if accelerator.is_main_process:\n            func(*args, **kwargs)\n    return wrapper",
+        "detail": "accelerate.utils",
+        "documentation": {}
+    },
+    {
+        "label": "is_initialized",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "description": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "peekOfCode": "def is_initialized() -> bool:\n    # if pytorch isn't compiled with c10d, is_initialized is omitted from namespace.\n    # this function wraps\n    \"\"\"\n    Returns c10d (distributed) runtime is initialized.\n    \"\"\"\n    return dist.is_available() and getattr(dist, \"is_initialized\", lambda: False)()\n@overload\ndef setup_dist(temp_dir: str, rank: int, world_size: int) -> None: ...\n@overload",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "documentation": {}
+    },
+    {
+        "label": "setup_dist",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "description": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "peekOfCode": "def setup_dist(temp_dir: str, rank: int, world_size: int) -> None: ...\n@overload\ndef setup_dist() -> None: ...\ndef setup_dist(*args):\n    \"\"\"\n    Set up a distributed process group.\n    Usage\n        1. setup_dist(temp_dir, rank, world_size)\n            : if you want to init by file, call this function with three args (temp_dir, rank, world_size).\n        2. setup_dist()",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "documentation": {}
+    },
+    {
+        "label": "setup_dist",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "description": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "peekOfCode": "def setup_dist() -> None: ...\ndef setup_dist(*args):\n    \"\"\"\n    Set up a distributed process group.\n    Usage\n        1. setup_dist(temp_dir, rank, world_size)\n            : if you want to init by file, call this function with three args (temp_dir, rank, world_size).\n        2. setup_dist()\n            : if you want to init by env (by torchrun), call this function without args.\n    \"\"\"",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "documentation": {}
+    },
+    {
+        "label": "setup_dist",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "description": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "peekOfCode": "def setup_dist(*args):\n    \"\"\"\n    Set up a distributed process group.\n    Usage\n        1. setup_dist(temp_dir, rank, world_size)\n            : if you want to init by file, call this function with three args (temp_dir, rank, world_size).\n        2. setup_dist()\n            : if you want to init by env (by torchrun), call this function without args.\n    \"\"\"\n    if is_initialized():",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "documentation": {}
+    },
+    {
+        "label": "cleanup_dist",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "description": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "peekOfCode": "def cleanup_dist():\n    \"\"\"\n    Clean up a distributed process group.\n    \"\"\"\n    if is_initialized():\n        dist.destroy_process_group()\n@contextlib.contextmanager\ndef with_dist_cleanup():\n    \"\"\"\n    Context Manager or Decorator version of cleanup_dist().",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "documentation": {}
+    },
+    {
+        "label": "with_dist_cleanup",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "description": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "peekOfCode": "def with_dist_cleanup():\n    \"\"\"\n    Context Manager or Decorator version of cleanup_dist().\n    \"\"\"\n    yield\n    cleanup_dist()\n# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #\n#                                      General Tools                                      #\n# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #\n@functools.lru_cache(maxsize=None)",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "documentation": {}
+    },
+    {
+        "label": "get_rank",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "description": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "peekOfCode": "def get_rank(group: Optional[dist.ProcessGroup] = None) -> int:\n    \"\"\"\n    Wrapper of torch.distributed.get_rank.\n    Get the rank of current process.\n    \"\"\"\n    if group is not None and is_initialized():\n        return dist.get_rank(group=group)\n    return RANK\n@functools.lru_cache(maxsize=None)\ndef get_world_size(group: Optional[dist.ProcessGroup] = None) -> int:",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "documentation": {}
+    },
+    {
+        "label": "get_world_size",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "description": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "peekOfCode": "def get_world_size(group: Optional[dist.ProcessGroup] = None) -> int:\n    \"\"\"\n    Wrapper of torch.distributed.get_world_size.\n    Get the world size of current process.\n    \"\"\"\n    if group is not None and is_initialized():\n        return dist.get_world_size(group=group)\n    return WORLD_SIZE\ndef barrier(*args: ..., **kwargs: ...) -> None:\n    \"\"\"",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "documentation": {}
+    },
+    {
+        "label": "barrier",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "description": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "peekOfCode": "def barrier(*args: ..., **kwargs: ...) -> None:\n    \"\"\"\n    Wrapper for torch.distributed.barrier.\n    Synchronizes all processes.\n    see `torch.distributed.distributed_c10d.barrier.__doc__` for more information.\n    \"\"\"\n    if is_initialized():\n        return dist.barrier(*args, **kwargs)\n@contextlib.contextmanager\ndef synchronized() -> ContextManager[None]:",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "documentation": {}
+    },
+    {
+        "label": "synchronized",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "description": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "peekOfCode": "def synchronized() -> ContextManager[None]:\n    \"\"\"\n    context manager version of barrier() function.\n    \"\"\"\n    barrier()\n    yield\n    barrier()\n@functools.lru_cache(maxsize=None)\ndef dev(group: Optional[dist.ProcessGroup] = None) -> torch.device:\n    \"\"\"",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "documentation": {}
+    },
+    {
+        "label": "dev",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "description": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "peekOfCode": "def dev(group: Optional[dist.ProcessGroup] = None) -> torch.device:\n    \"\"\"\n    Get the device to use for torch.distributed.\n    \"\"\"\n    if _cuda_available():\n        return torch.device(\"cuda:{}\".format(get_rank(group)))\n    return torch.device(\"cpu\")\ntry:\n    def load_state_dict(local_or_remote_path: Union[str, os.PathLike], **kwargs: ...) -> Any:\n        \"\"\"",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "documentation": {}
+    },
+    {
+        "label": "broadcast",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "description": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "peekOfCode": "def broadcast(\n        tensor: Sequence[torch.Tensor],\n        src: Optional[int] = 0,\n        group: Optional[dist.ProcessGroup] = None,\n        async_op: bool = False\n) -> None:\n    \"\"\"\n    Synchronize a Tensor across ranks from {src} rank. (default=0)\n    :param tensor: torch.Tensor.\n    :param src: source rank to sync params from. default is 0.",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "documentation": {}
+    },
+    {
+        "label": "sync_params",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "description": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "peekOfCode": "def sync_params(\n        params: Sequence[torch.Tensor],\n        src: Optional[int] = 0,\n        group: Optional[dist.ProcessGroup] = None,\n        async_op: bool = False\n) -> None:\n    \"\"\"\n    Synchronize a sequence of Tensors across ranks from {src} rank. (default=0)\n    :param params: Sequence of torch.Tensor.\n    :param src: source rank to sync params from. default is 0.",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "documentation": {}
+    },
+    {
+        "label": "sequential_print",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "description": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "peekOfCode": "def sequential_print(*args: ..., **kwargs: ...) -> None:\n    \"\"\"\n    Print argument sequentially by rank order.\n    Arguments are passed to print function.\n    \"\"\"\n    rank = get_rank()\n    for i in range(get_world_size()):\n        if i == rank:\n            print(*args, **kwargs)\n        barrier()",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "documentation": {}
+    },
+    {
+        "label": "print_master_node",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "description": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "peekOfCode": "def print_master_node(*args: ..., **kwargs: ...) -> None:\n    \"\"\"\n    Print argument only on master node.\n    Arguments are passed to print function.\n    \"\"\"\n    if get_rank() == 0:\n        print(*args, **kwargs)\n    barrier()\n@contextlib.contextmanager\ndef dummy_context() -> ContextManager[None]:",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "documentation": {}
+    },
+    {
+        "label": "dummy_context",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "description": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "peekOfCode": "def dummy_context() -> ContextManager[None]:\n    \"\"\"\n    Dummy context manager.\n    \"\"\"\n    yield\n@contextlib.contextmanager\ndef no_sync(*modules: DistributedDataParallel) -> ContextManager[None]:\n    \"\"\"\n    Context Manager or Decorator of multiple modules' no_sync().\n    Usage",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "documentation": {}
+    },
+    {
+        "label": "no_sync",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "description": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "peekOfCode": "def no_sync(*modules: DistributedDataParallel) -> ContextManager[None]:\n    \"\"\"\n    Context Manager or Decorator of multiple modules' no_sync().\n    Usage\n        with no_sync(ddp_module_1, ddp_module_2, ddp_module_3, ddp_module_n):\n            ... # your code\n    \"\"\"\n    if not modules:\n        yield\n    else:",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "documentation": {}
+    },
+    {
+        "label": "__author__",
+        "kind": 5,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "description": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "peekOfCode": "__author__ = \"https://github.com/kdha0727\"\nimport io\nimport os\nimport contextlib\nimport functools\nfrom typing import overload, Sequence, Optional, Union, ContextManager, Any\nimport torch\nimport torch.distributed as dist\nfrom torch.nn.parallel.distributed import DistributedDataParallel\nfrom torch.cuda import is_available as _cuda_available",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.dist_util",
+        "documentation": {}
+    },
+    {
+        "label": "KVWriter",
+        "kind": 6,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "class KVWriter(ABC):\n    @abstractmethod\n    def writekvs(self, kvs):\n        raise NotImplementedError\nclass SeqWriter(ABC):\n    @abstractmethod\n    def writeseq(self, seq):\n        raise NotImplementedError\nclass HumanOutputFormat(KVWriter, SeqWriter):\n    def __init__(self, filename_or_file):",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "SeqWriter",
+        "kind": 6,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "class SeqWriter(ABC):\n    @abstractmethod\n    def writeseq(self, seq):\n        raise NotImplementedError\nclass HumanOutputFormat(KVWriter, SeqWriter):\n    def __init__(self, filename_or_file):\n        if isinstance(filename_or_file, str):\n            self.file = open(filename_or_file, \"wt\")\n            self.own_file = True\n        else:",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "HumanOutputFormat",
+        "kind": 6,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "class HumanOutputFormat(KVWriter, SeqWriter):\n    def __init__(self, filename_or_file):\n        if isinstance(filename_or_file, str):\n            self.file = open(filename_or_file, \"wt\")\n            self.own_file = True\n        else:\n            assert hasattr(filename_or_file, \"read\"), (\n                \"expected file or str, got %s\" % filename_or_file\n            )\n            self.file = filename_or_file",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "JSONOutputFormat",
+        "kind": 6,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "class JSONOutputFormat(KVWriter):\n    def __init__(self, filename):\n        self.file = open(filename, \"wt\")\n    def writekvs(self, kvs):\n        for k, v in sorted(kvs.items()):\n            if hasattr(v, \"dtype\"):\n                kvs[k] = float(v)\n        self.file.write(json.dumps(kvs) + \"\\n\")\n        self.file.flush()\n    def close(self):",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "CSVOutputFormat",
+        "kind": 6,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "class CSVOutputFormat(KVWriter):\n    def __init__(self, filename):\n        self.file = open(filename, \"w+t\")\n        self.keys = []\n        self.sep = \",\"\n    def writekvs(self, kvs):\n        # Add our current row to the history\n        extra_keys = list(kvs.keys() - self.keys)\n        extra_keys.sort()\n        if extra_keys:",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "TensorBoardOutputFormat",
+        "kind": 6,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "class TensorBoardOutputFormat(KVWriter):\n    \"\"\"\n    Dumps key/value pairs into TensorBoard's numeric format.\n    \"\"\"\n    def __init__(self, dir):\n        os.makedirs(dir, exist_ok=True)\n        self.dir = dir\n        self.step = 1\n        prefix = \"events\"\n        path = os.path.join(os.path.abspath(dir), prefix)",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "Logger",
+        "kind": 6,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "class Logger(object):\n    DEFAULT = None  # A logger with no output files. (See right below class definition)\n    # So that you can still log to the terminal without setting up any output files\n    CURRENT = None  # Current logger being used by the free functions above\n    def __init__(self, dir, output_formats, comm=None):\n        self.name2val = defaultdict(float)  # values this iteration\n        self.name2cnt = defaultdict(int)\n        self.level = INFO\n        self.dir = dir\n        self.output_formats = output_formats",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "make_output_format",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "def make_output_format(format, ev_dir, log_suffix=\"\"):\n    os.makedirs(ev_dir, exist_ok=True)\n    if format == \"stdout\":\n        return HumanOutputFormat(sys.stdout)\n    elif format == \"log\":\n        return HumanOutputFormat(os.path.join(ev_dir, \"log%s.txt\" % log_suffix))\n    elif format == \"json\":\n        return JSONOutputFormat(os.path.join(ev_dir, \"progress%s.json\" % log_suffix))\n    elif format == \"csv\":\n        return CSVOutputFormat(os.path.join(ev_dir, \"progress%s.csv\" % log_suffix))",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logkv",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "def logkv(key, val):\n    \"\"\"\n    Log a value of some diagnostic\n    Call this once for each diagnostic quantity, each iteration\n    If called many times, last value will be used.\n    \"\"\"\n    get_current().logkv(key, val)\ndef logkv_mean(key, val):\n    \"\"\"\n    The same as logkv(), but if called many times, values averaged.",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logkv_mean",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "def logkv_mean(key, val):\n    \"\"\"\n    The same as logkv(), but if called many times, values averaged.\n    \"\"\"\n    get_current().logkv_mean(key, val)\ndef logkvs(d):\n    \"\"\"\n    Log a dictionary of key-value pairs\n    \"\"\"\n    for (k, v) in d.items():",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logkvs",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "def logkvs(d):\n    \"\"\"\n    Log a dictionary of key-value pairs\n    \"\"\"\n    for (k, v) in d.items():\n        logkv(k, v)\ndef dumpkvs():\n    \"\"\"\n    Write all of the diagnostics from the current iteration\n    \"\"\"",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "dumpkvs",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "def dumpkvs():\n    \"\"\"\n    Write all of the diagnostics from the current iteration\n    \"\"\"\n    return get_current().dumpkvs()\ndef getkvs():\n    return get_current().name2val\ndef log(*args, level=INFO):\n    \"\"\"\n    Write the sequence of args, with no separators, to the console and output files (if you've configured an output file).",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "getkvs",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "def getkvs():\n    return get_current().name2val\ndef log(*args, level=INFO):\n    \"\"\"\n    Write the sequence of args, with no separators, to the console and output files (if you've configured an output file).\n    \"\"\"\n    get_current().log(*args, level=level)\ndef debug(*args):\n    log(*args, level=DEBUG)\ndef info(*args):",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "log",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "def log(*args, level=INFO):\n    \"\"\"\n    Write the sequence of args, with no separators, to the console and output files (if you've configured an output file).\n    \"\"\"\n    get_current().log(*args, level=level)\ndef debug(*args):\n    log(*args, level=DEBUG)\ndef info(*args):\n    log(*args, level=INFO)\ndef warn(*args):",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "debug",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "def debug(*args):\n    log(*args, level=DEBUG)\ndef info(*args):\n    log(*args, level=INFO)\ndef warn(*args):\n    log(*args, level=WARN)\ndef error(*args):\n    log(*args, level=ERROR)\ndef set_level(level):\n    \"\"\"",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "info",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "def info(*args):\n    log(*args, level=INFO)\ndef warn(*args):\n    log(*args, level=WARN)\ndef error(*args):\n    log(*args, level=ERROR)\ndef set_level(level):\n    \"\"\"\n    Set logging threshold on current logger.\n    \"\"\"",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "warn",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "def warn(*args):\n    log(*args, level=WARN)\ndef error(*args):\n    log(*args, level=ERROR)\ndef set_level(level):\n    \"\"\"\n    Set logging threshold on current logger.\n    \"\"\"\n    get_current().set_level(level)\ndef set_comm(comm):",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "error",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "def error(*args):\n    log(*args, level=ERROR)\ndef set_level(level):\n    \"\"\"\n    Set logging threshold on current logger.\n    \"\"\"\n    get_current().set_level(level)\ndef set_comm(comm):\n    get_current().set_comm(comm)\ndef get_dir():",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "set_level",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "def set_level(level):\n    \"\"\"\n    Set logging threshold on current logger.\n    \"\"\"\n    get_current().set_level(level)\ndef set_comm(comm):\n    get_current().set_comm(comm)\ndef get_dir():\n    \"\"\"\n    Get directory that log files are being written to.",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "set_comm",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "def set_comm(comm):\n    get_current().set_comm(comm)\ndef get_dir():\n    \"\"\"\n    Get directory that log files are being written to.\n    will be None if there is no output directory (i.e., if you didn't call start)\n    \"\"\"\n    return get_current().get_dir()\nrecord_tabular = logkv\ndump_tabular = dumpkvs",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "get_dir",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "def get_dir():\n    \"\"\"\n    Get directory that log files are being written to.\n    will be None if there is no output directory (i.e., if you didn't call start)\n    \"\"\"\n    return get_current().get_dir()\nrecord_tabular = logkv\ndump_tabular = dumpkvs\n@contextmanager\ndef profile_kv(scopename):",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "profile_kv",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "def profile_kv(scopename):\n    logkey = \"wait_\" + scopename\n    tstart = time.time()\n    try:\n        yield\n    finally:\n        get_current().name2val[logkey] += time.time() - tstart\ndef profile(n):\n    \"\"\"\n    Usage:",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "profile",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "def profile(n):\n    \"\"\"\n    Usage:\n    @profile(\"my_func\")\n    def my_func(): code\n    \"\"\"\n    def decorator_with_name(func):\n        def func_wrapper(*args, **kwargs):\n            with profile_kv(n):\n                return func(*args, **kwargs)",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "get_current",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "def get_current():\n    if Logger.CURRENT is None:\n        _configure_default_logger()\n    return Logger.CURRENT\nclass Logger(object):\n    DEFAULT = None  # A logger with no output files. (See right below class definition)\n    # So that you can still log to the terminal without setting up any output files\n    CURRENT = None  # Current logger being used by the free functions above\n    def __init__(self, dir, output_formats, comm=None):\n        self.name2val = defaultdict(float)  # values this iteration",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "get_rank_without_mpi_import",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "def get_rank_without_mpi_import():\n    # check environment variables here instead of importing mpi4py\n    # to avoid calling MPI_Init() when this module is imported\n    for varname in [\"PMI_RANK\", \"OMPI_COMM_WORLD_RANK\"]:\n        if varname in os.environ:\n            return int(os.environ[varname])\n    return 0\ndef mpi_weighted_mean(comm, local_name2valcount):\n    \"\"\"\n    Copied from: https://github.com/openai/baselines/blob/ea25b9e8b234e6ee1bca43083f8f3cf974143998/baselines/common/mpi_util.py#L110",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "mpi_weighted_mean",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "def mpi_weighted_mean(comm, local_name2valcount):\n    \"\"\"\n    Copied from: https://github.com/openai/baselines/blob/ea25b9e8b234e6ee1bca43083f8f3cf974143998/baselines/common/mpi_util.py#L110\n    Perform a weighted average over dicts that are each on a different node\n    Input: local_name2valcount: dict mapping key -> (value, count)\n    Returns: key -> mean\n    \"\"\"\n    all_name2valcount = comm.gather(local_name2valcount)\n    if comm.rank == 0:\n        name2sum = defaultdict(float)",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "configure",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "def configure(dir=None, format_strs=None, comm=None, log_suffix=\"\"):\n    \"\"\"\n    If comm is provided, average all numerical stats across that comm\n    \"\"\"\n    if dir is None:\n        dir = os.getenv(\"OPENAI_LOGDIR\")\n    if dir is None:\n        dir = os.path.join(\n            tempfile.gettempdir(),\n            datetime.datetime.now().strftime(\"openai-%Y-%m-%d-%H-%M-%S-%f\"),",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "reset",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "def reset():\n    if Logger.CURRENT is not Logger.DEFAULT:\n        Logger.CURRENT.close()\n        Logger.CURRENT = Logger.DEFAULT\n        log(\"Reset logger\")\n@contextmanager\ndef scoped_configure(dir=None, format_strs=None, comm=None):\n    prevlogger = Logger.CURRENT\n    configure(dir=dir, format_strs=format_strs, comm=comm)\n    try:",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "scoped_configure",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "def scoped_configure(dir=None, format_strs=None, comm=None):\n    prevlogger = Logger.CURRENT\n    configure(dir=dir, format_strs=format_strs, comm=comm)\n    try:\n        yield\n    finally:\n        Logger.CURRENT.close()\n        Logger.CURRENT = prevlogger",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "DEBUG = 10\nINFO = 20\nWARN = 30\nERROR = 40\nDISABLED = 50\nclass KVWriter(ABC):\n    @abstractmethod\n    def writekvs(self, kvs):\n        raise NotImplementedError\nclass SeqWriter(ABC):",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "INFO",
+        "kind": 5,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "INFO = 20\nWARN = 30\nERROR = 40\nDISABLED = 50\nclass KVWriter(ABC):\n    @abstractmethod\n    def writekvs(self, kvs):\n        raise NotImplementedError\nclass SeqWriter(ABC):\n    @abstractmethod",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "WARN",
+        "kind": 5,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "WARN = 30\nERROR = 40\nDISABLED = 50\nclass KVWriter(ABC):\n    @abstractmethod\n    def writekvs(self, kvs):\n        raise NotImplementedError\nclass SeqWriter(ABC):\n    @abstractmethod\n    def writeseq(self, seq):",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "ERROR",
+        "kind": 5,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "ERROR = 40\nDISABLED = 50\nclass KVWriter(ABC):\n    @abstractmethod\n    def writekvs(self, kvs):\n        raise NotImplementedError\nclass SeqWriter(ABC):\n    @abstractmethod\n    def writeseq(self, seq):\n        raise NotImplementedError",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "DISABLED",
+        "kind": 5,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "DISABLED = 50\nclass KVWriter(ABC):\n    @abstractmethod\n    def writekvs(self, kvs):\n        raise NotImplementedError\nclass SeqWriter(ABC):\n    @abstractmethod\n    def writeseq(self, seq):\n        raise NotImplementedError\nclass HumanOutputFormat(KVWriter, SeqWriter):",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "record_tabular",
+        "kind": 5,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "record_tabular = logkv\ndump_tabular = dumpkvs\n@contextmanager\ndef profile_kv(scopename):\n    logkey = \"wait_\" + scopename\n    tstart = time.time()\n    try:\n        yield\n    finally:\n        get_current().name2val[logkey] += time.time() - tstart",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "dump_tabular",
+        "kind": 5,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "description": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "peekOfCode": "dump_tabular = dumpkvs\n@contextmanager\ndef profile_kv(scopename):\n    logkey = \"wait_\" + scopename\n    tstart = time.time()\n    try:\n        yield\n    finally:\n        get_current().name2val[logkey] += time.time() - tstart\ndef profile(n):",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.logger",
+        "documentation": {}
+    },
+    {
+        "label": "InfiniteSampler",
+        "kind": 6,
+        "importPath": "ddp.distributed-pipeline-master.basic_utils.sampler",
+        "description": "ddp.distributed-pipeline-master.basic_utils.sampler",
+        "peekOfCode": "class InfiniteSampler(torch.utils.data.Sampler):\n    def __init__(\n        self, \n        dataset, num_replicas: int = 1,\n        rank: int = None, shuffle: bool = True, \n        seed: int = 0, window_size: float = 0.5\n    ) -> None:\n        from . import dist_util\n        assert len(dataset) > 0\n        assert num_replicas > 0",
+        "detail": "ddp.distributed-pipeline-master.basic_utils.sampler",
+        "documentation": {}
+    },
+    {
+        "label": "ArgparseCompatibleBaseModel",
+        "kind": 6,
+        "importPath": "ddp.distributed-pipeline-master.config.base",
+        "description": "ddp.distributed-pipeline-master.config.base",
+        "peekOfCode": "class ArgparseCompatibleBaseModel(BaseModel):\n    class Config:  # Override this to allow extra kwargs\n        extra = \"forbid\"\n    @classmethod\n    def from_argparse(cls, namespace, __top=True):\n        if not isinstance(namespace, dict):\n            namespace = vars(namespace)\n        kwargs = {}\n        for name, field in cls.__fields__.items():\n            if isinstance(field.type_, type) and issubclass(field.type_, BaseModel):",
+        "detail": "ddp.distributed-pipeline-master.config.base",
+        "documentation": {}
+    },
+    {
+        "label": "choice",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.config.base",
+        "description": "ddp.distributed-pipeline-master.config.base",
+        "peekOfCode": "def choice(*args):\n    return Literal.__getitem__(args)\nC = Choice = choice  # Alias\ndef item(default, description=None):\n    return Field(default, description=description)\n_ = Item = item  # Alias\nValidator = validator  # Alias\n__all__ = (\n    'ArgparseCompatibleBaseModel', 'Setting', 'S',\n    'choice', 'Choice', 'C',",
+        "detail": "ddp.distributed-pipeline-master.config.base",
+        "documentation": {}
+    },
+    {
+        "label": "item",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.config.base",
+        "description": "ddp.distributed-pipeline-master.config.base",
+        "peekOfCode": "def item(default, description=None):\n    return Field(default, description=description)\n_ = Item = item  # Alias\nValidator = validator  # Alias\n__all__ = (\n    'ArgparseCompatibleBaseModel', 'Setting', 'S',\n    'choice', 'Choice', 'C',\n    'item', 'Item', '_',\n    'validator', 'Validator',\n)",
+        "detail": "ddp.distributed-pipeline-master.config.base",
+        "documentation": {}
+    },
+    {
+        "label": "S",
+        "kind": 5,
+        "importPath": "ddp.distributed-pipeline-master.config.base",
+        "description": "ddp.distributed-pipeline-master.config.base",
+        "peekOfCode": "S = Setting = ArgparseCompatibleBaseModel  # Alias\ndef choice(*args):\n    return Literal.__getitem__(args)\nC = Choice = choice  # Alias\ndef item(default, description=None):\n    return Field(default, description=description)\n_ = Item = item  # Alias\nValidator = validator  # Alias",
+        "detail": "ddp.distributed-pipeline-master.config.base",
+        "documentation": {}
+    },
+    {
+        "label": "C",
+        "kind": 5,
+        "importPath": "ddp.distributed-pipeline-master.config.base",
+        "description": "ddp.distributed-pipeline-master.config.base",
+        "peekOfCode": "C = Choice = choice  # Alias\ndef item(default, description=None):\n    return Field(default, description=description)\n_ = Item = item  # Alias\nValidator = validator  # Alias\n__all__ = (\n    'ArgparseCompatibleBaseModel', 'Setting', 'S',\n    'choice', 'Choice', 'C',\n    'item', 'Item', '_',\n    'validator', 'Validator',",
+        "detail": "ddp.distributed-pipeline-master.config.base",
+        "documentation": {}
+    },
+    {
+        "label": "_",
+        "kind": 5,
+        "importPath": "ddp.distributed-pipeline-master.config.base",
+        "description": "ddp.distributed-pipeline-master.config.base",
+        "peekOfCode": "_ = Item = item  # Alias\nValidator = validator  # Alias\n__all__ = (\n    'ArgparseCompatibleBaseModel', 'Setting', 'S',\n    'choice', 'Choice', 'C',\n    'item', 'Item', '_',\n    'validator', 'Validator',\n)\nif __name__ == '__main__':\n    import yaml",
+        "detail": "ddp.distributed-pipeline-master.config.base",
+        "documentation": {}
+    },
+    {
+        "label": "Validator",
+        "kind": 5,
+        "importPath": "ddp.distributed-pipeline-master.config.base",
+        "description": "ddp.distributed-pipeline-master.config.base",
+        "peekOfCode": "Validator = validator  # Alias\n__all__ = (\n    'ArgparseCompatibleBaseModel', 'Setting', 'S',\n    'choice', 'Choice', 'C',\n    'item', 'Item', '_',\n    'validator', 'Validator',\n)\nif __name__ == '__main__':\n    import yaml\n    class Config1(S):",
+        "detail": "ddp.distributed-pipeline-master.config.base",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "ddp.distributed-pipeline-master.config.base",
+        "description": "ddp.distributed-pipeline-master.config.base",
+        "peekOfCode": "__all__ = (\n    'ArgparseCompatibleBaseModel', 'Setting', 'S',\n    'choice', 'Choice', 'C',\n    'item', 'Item', '_',\n    'validator', 'Validator',\n)\nif __name__ == '__main__':\n    import yaml\n    class Config1(S):\n        a: int = _(1, description='this is a')",
+        "detail": "ddp.distributed-pipeline-master.config.base",
+        "documentation": {}
+    },
+    {
+        "label": "GeneralSettings",
+        "kind": 6,
+        "importPath": "ddp.distributed-pipeline-master.config.train",
+        "description": "ddp.distributed-pipeline-master.config.train",
+        "peekOfCode": "class GeneralSettings(S):\n    lr: float \\\n        = _(1e-4, \"Learning Rate\")\n    batch_size: int \\\n        = _(2048, \"Batch size of running step and optimizing\")\n    microbatch: int \\\n        = _(64, \"Batch size for forward and backward\")\n    learning_steps: int \\\n        = _(320000, \"Steps for whole iteration\")\n    log_interval: int \\",
+        "detail": "ddp.distributed-pipeline-master.config.train",
+        "documentation": {}
+    },
+    {
+        "label": "DataSettings",
+        "kind": 6,
+        "importPath": "ddp.distributed-pipeline-master.config.train",
+        "description": "ddp.distributed-pipeline-master.config.train",
+        "peekOfCode": "class DataSettings(S):\n    dataset: str \\\n        = _(\"dataset\", \"Name of dataset.\")\n    data_dir: str \\\n        = _(\"datasets/dataset\", \"Path for dataset to be saved.\")\n    data_loader_workers: int \\\n        = _(2, \"num_workers for DataLoader.\")\nclass YourSettings(S):\n    # TODO: add extra settings on your own\n    pass",
+        "detail": "ddp.distributed-pipeline-master.config.train",
+        "documentation": {}
+    },
+    {
+        "label": "YourSettings",
+        "kind": 6,
+        "importPath": "ddp.distributed-pipeline-master.config.train",
+        "description": "ddp.distributed-pipeline-master.config.train",
+        "peekOfCode": "class YourSettings(S):\n    # TODO: add extra settings on your own\n    pass\n@final\nclass TrainSettings(\n        YourSettings,\n        # TODO: inherit setting classes \"reversely\", due to python mro.\n        DataSettings,\n        GeneralSettings\n):",
+        "detail": "ddp.distributed-pipeline-master.config.train",
+        "documentation": {}
+    },
+    {
+        "label": "TrainSettings",
+        "kind": 6,
+        "importPath": "ddp.distributed-pipeline-master.config.train",
+        "description": "ddp.distributed-pipeline-master.config.train",
+        "peekOfCode": "class TrainSettings(\n        YourSettings,\n        # TODO: inherit setting classes \"reversely\", due to python mro.\n        DataSettings,\n        GeneralSettings\n):\n    @classmethod\n    def to_argparse(cls, parser_or_group=None, add_json=False):\n        if not add_json:\n            return super(TrainSettings, cls).to_argparse(parser_or_group)",
+        "detail": "ddp.distributed-pipeline-master.config.train",
+        "documentation": {}
+    },
+    {
+        "label": "__all__",
+        "kind": 5,
+        "importPath": "ddp.distributed-pipeline-master.config.train",
+        "description": "ddp.distributed-pipeline-master.config.train",
+        "peekOfCode": "__all__ = ('TrainSettings', )",
+        "detail": "ddp.distributed-pipeline-master.config.train",
+        "documentation": {}
+    },
+    {
+        "label": "CustomDataset",
+        "kind": 6,
+        "importPath": "ddp.distributed-pipeline-master.data.dataset",
+        "description": "ddp.distributed-pipeline-master.data.dataset",
+        "peekOfCode": "class CustomDataset(Dataset):\n    # TODO: implement this class\n    def __init__(self, *args, **kwargs):\n        raise NotImplementedError\n    def __getitem__(self, item):\n        raise NotImplementedError\n    def __len__(self):\n        raise NotImplementedError",
+        "detail": "ddp.distributed-pipeline-master.data.dataset",
+        "documentation": {}
+    },
+    {
+        "label": "seed_all",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.utils.initialization",
+        "description": "ddp.distributed-pipeline-master.utils.initialization",
+        "peekOfCode": "def seed_all(seed, deterministic=False):\n    import random\n    import numpy as np\n    import torch\n    from basic_utils.dist_util import get_rank\n    if deterministic:\n        seed = int(seed)\n        torch.backends.cudnn.deterministic = True  # NOQA\n        torch.backends.cudnn.benchmark = False  # NOQA\n    else:",
+        "detail": "ddp.distributed-pipeline-master.utils.initialization",
+        "documentation": {}
+    },
+    {
+        "label": "create_model_from_config",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.utils.initialization",
+        "description": "ddp.distributed-pipeline-master.utils.initialization",
+        "peekOfCode": "def create_model_from_config(\n        *,\n        argument1,\n        argument2,\n        argument3,\n        **_\n):\n    # TODO: Implement this function\n    model = ...\n    return model",
+        "detail": "ddp.distributed-pipeline-master.utils.initialization",
+        "documentation": {}
+    },
+    {
+        "label": "TrainLoop",
+        "kind": 6,
+        "importPath": "ddp.distributed-pipeline-master.utils.trainer",
+        "description": "ddp.distributed-pipeline-master.utils.trainer",
+        "peekOfCode": "class TrainLoop:\n    def log_loss_dict(self, mode, losses, *args, **kwargs):  # mode: train or eval\n        # TODO: Add your loss logging function with logger.logkv_mean\n        raise NotImplementedError\n    def compute_losses(self, micro_batch):\n        # TODO: Add your loss function with logger.logkv_mean\n        raise NotImplementedError\n    @staticmethod\n    def backward_from_losses(losses):\n        # TODO: Add your loss-reducing function",
+        "detail": "ddp.distributed-pipeline-master.utils.trainer",
+        "documentation": {}
+    },
+    {
+        "label": "update_ema",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.utils.trainer",
+        "description": "ddp.distributed-pipeline-master.utils.trainer",
+        "peekOfCode": "def update_ema(target_params, source_params, rate=0.99):\n    \"\"\"\n    Update target parameters to be closer to those of source parameters using\n    an exponential moving average.\n    :param target_params: the target parameter sequence.\n    :param source_params: the source parameter sequence.\n    :param rate: the EMA rate (closer to 1 means slower).\n    \"\"\"\n    for trg, src in zip(target_params, source_params):\n        trg.detach().mul_(rate).add_(src, alpha=1 - rate)",
+        "detail": "ddp.distributed-pipeline-master.utils.trainer",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.train",
+        "description": "ddp.distributed-pipeline-master.train",
+        "peekOfCode": "def parse_args():\n    parser = TrainSettings.to_argparse(add_json=True)\n    return parser.parse_args()\ndef train(rank, args):\n    # Import dependencies\n    import time\n    import json\n    # Import everything\n    from data import load_data_from_args\n    from basic_utils import dist_util, logger",
+        "detail": "ddp.distributed-pipeline-master.train",
+        "documentation": {}
+    },
+    {
+        "label": "train",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.train",
+        "description": "ddp.distributed-pipeline-master.train",
+        "peekOfCode": "def train(rank, args):\n    # Import dependencies\n    import time\n    import json\n    # Import everything\n    from data import load_data_from_args\n    from basic_utils import dist_util, logger\n    from utils.initialization import create_model_from_config, seed_all\n    from utils.trainer import TrainLoop\n    dist_util.barrier()  # Sync",
+        "detail": "ddp.distributed-pipeline-master.train",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "ddp.distributed-pipeline-master.train",
+        "description": "ddp.distributed-pipeline-master.train",
+        "peekOfCode": "def main(namespace):\n    # Create config from parsed argument namespace\n    args: TrainSettings = TrainSettings.from_argparse(namespace)\n    # Import dist_util\n    from basic_utils import dist_util\n    # Setup distributed\n    if \"LOCAL_RANK\" in os.environ:\n        dist_util.setup_dist()\n    rank = dist_util.get_rank()\n    # Run training",
+        "detail": "ddp.distributed-pipeline-master.train",
+        "documentation": {}
+    },
+    {
+        "label": "f",
+        "kind": 2,
+        "importPath": "ddp.dist_gather_example",
+        "description": "ddp.dist_gather_example",
+        "peekOfCode": "def f(rank):\n    dist.init_process_group(backend='gloo', init_method='tcp://127.0.0.1:23456', world_size=4, rank=rank)\n    t = torch.rand(1)\n    gather_t = [torch.ones_like(t) for _ in range(dist.get_world_size())]\n    dist.all_gather(gather_t, t)\n    print(rank, t, gather_t)\nif __name__ == '__main__':\n    mp.spawn(f, nprocs=4, args=())",
+        "detail": "ddp.dist_gather_example",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "ddp.main",
+        "description": "ddp.main",
+        "peekOfCode": "def main(args, config):\n\tif args.ddp == True:\n\t\tinit_distributed_training(args)\n\t\tset_seed_ddp(config['seed'], args.rank)\n\t\tlocal_gpu_id = args.rank\n\t\tnum_processes = args.world_size\n\ttrain_dataset = Dataset(...)\n\tif args.ddp == True :\n\t\ttotal_num_workers = config['train']['num_workers'] * num_processes\n\t\ttotal_batch_size = config['train']['batch'] * num_processes",
+        "detail": "ddp.main",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tlocal_gpu_id",
+        "kind": 5,
+        "importPath": "ddp.main",
+        "description": "ddp.main",
+        "peekOfCode": "\t\tlocal_gpu_id = args.rank\n\t\tnum_processes = args.world_size\n\ttrain_dataset = Dataset(...)\n\tif args.ddp == True :\n\t\ttotal_num_workers = config['train']['num_workers'] * num_processes\n\t\ttotal_batch_size = config['train']['batch'] * num_processes\n\t\ttrain_dataset_sampler = DistributedSampler(train_dataset, shuffle=True)\n\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=total_batch_size, sampler=train_dataset_sampler, num_workers=total_num_workers)\n\telse:\n\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=config['train']['batch'], shuffle=True, num_workers=config['train']['num_workers'])",
+        "detail": "ddp.main",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tnum_processes",
+        "kind": 5,
+        "importPath": "ddp.main",
+        "description": "ddp.main",
+        "peekOfCode": "\t\tnum_processes = args.world_size\n\ttrain_dataset = Dataset(...)\n\tif args.ddp == True :\n\t\ttotal_num_workers = config['train']['num_workers'] * num_processes\n\t\ttotal_batch_size = config['train']['batch'] * num_processes\n\t\ttrain_dataset_sampler = DistributedSampler(train_dataset, shuffle=True)\n\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=total_batch_size, sampler=train_dataset_sampler, num_workers=total_num_workers)\n\telse:\n\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=config['train']['batch'], shuffle=True, num_workers=config['train']['num_workers'])\n\tif torch.cuda.is_available():",
+        "detail": "ddp.main",
+        "documentation": {}
+    },
+    {
+        "label": "\ttrain_dataset",
+        "kind": 5,
+        "importPath": "ddp.main",
+        "description": "ddp.main",
+        "peekOfCode": "\ttrain_dataset = Dataset(...)\n\tif args.ddp == True :\n\t\ttotal_num_workers = config['train']['num_workers'] * num_processes\n\t\ttotal_batch_size = config['train']['batch'] * num_processes\n\t\ttrain_dataset_sampler = DistributedSampler(train_dataset, shuffle=True)\n\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=total_batch_size, sampler=train_dataset_sampler, num_workers=total_num_workers)\n\telse:\n\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=config['train']['batch'], shuffle=True, num_workers=config['train']['num_workers'])\n\tif torch.cuda.is_available():\n\t\tif args.ddp == True:",
+        "detail": "ddp.main",
+        "documentation": {}
+    },
+    {
+        "label": "\t\ttotal_num_workers",
+        "kind": 5,
+        "importPath": "ddp.main",
+        "description": "ddp.main",
+        "peekOfCode": "\t\ttotal_num_workers = config['train']['num_workers'] * num_processes\n\t\ttotal_batch_size = config['train']['batch'] * num_processes\n\t\ttrain_dataset_sampler = DistributedSampler(train_dataset, shuffle=True)\n\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=total_batch_size, sampler=train_dataset_sampler, num_workers=total_num_workers)\n\telse:\n\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=config['train']['batch'], shuffle=True, num_workers=config['train']['num_workers'])\n\tif torch.cuda.is_available():\n\t\tif args.ddp == True:\n\t\t\tdevice = torch.device(f'cuda:{local_gpu_id}')\n\t\telse :",
+        "detail": "ddp.main",
+        "documentation": {}
+    },
+    {
+        "label": "\t\ttotal_batch_size",
+        "kind": 5,
+        "importPath": "ddp.main",
+        "description": "ddp.main",
+        "peekOfCode": "\t\ttotal_batch_size = config['train']['batch'] * num_processes\n\t\ttrain_dataset_sampler = DistributedSampler(train_dataset, shuffle=True)\n\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=total_batch_size, sampler=train_dataset_sampler, num_workers=total_num_workers)\n\telse:\n\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=config['train']['batch'], shuffle=True, num_workers=config['train']['num_workers'])\n\tif torch.cuda.is_available():\n\t\tif args.ddp == True:\n\t\t\tdevice = torch.device(f'cuda:{local_gpu_id}')\n\t\telse :\n\t\t\tdevice = torch.device(f'cuda')",
+        "detail": "ddp.main",
+        "documentation": {}
+    },
+    {
+        "label": "\t\ttrain_dataset_sampler",
+        "kind": 5,
+        "importPath": "ddp.main",
+        "description": "ddp.main",
+        "peekOfCode": "\t\ttrain_dataset_sampler = DistributedSampler(train_dataset, shuffle=True)\n\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=total_batch_size, sampler=train_dataset_sampler, num_workers=total_num_workers)\n\telse:\n\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=config['train']['batch'], shuffle=True, num_workers=config['train']['num_workers'])\n\tif torch.cuda.is_available():\n\t\tif args.ddp == True:\n\t\t\tdevice = torch.device(f'cuda:{local_gpu_id}')\n\t\telse :\n\t\t\tdevice = torch.device(f'cuda')\n\telse:",
+        "detail": "ddp.main",
+        "documentation": {}
+    },
+    {
+        "label": "\t\ttrain_dataloader",
+        "kind": 5,
+        "importPath": "ddp.main",
+        "description": "ddp.main",
+        "peekOfCode": "\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=total_batch_size, sampler=train_dataset_sampler, num_workers=total_num_workers)\n\telse:\n\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=config['train']['batch'], shuffle=True, num_workers=config['train']['num_workers'])\n\tif torch.cuda.is_available():\n\t\tif args.ddp == True:\n\t\t\tdevice = torch.device(f'cuda:{local_gpu_id}')\n\t\telse :\n\t\t\tdevice = torch.device(f'cuda')\n\telse:\n\t\tdevice = torch.device('cpu')",
+        "detail": "ddp.main",
+        "documentation": {}
+    },
+    {
+        "label": "\t\ttrain_dataloader",
+        "kind": 5,
+        "importPath": "ddp.main",
+        "description": "ddp.main",
+        "peekOfCode": "\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=config['train']['batch'], shuffle=True, num_workers=config['train']['num_workers'])\n\tif torch.cuda.is_available():\n\t\tif args.ddp == True:\n\t\t\tdevice = torch.device(f'cuda:{local_gpu_id}')\n\t\telse :\n\t\t\tdevice = torch.device(f'cuda')\n\telse:\n\t\tdevice = torch.device('cpu')\n\t...\n\tif args.ddp == True:",
+        "detail": "ddp.main",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tdevice",
+        "kind": 5,
+        "importPath": "ddp.main",
+        "description": "ddp.main",
+        "peekOfCode": "\t\t\tdevice = torch.device(f'cuda:{local_gpu_id}')\n\t\telse :\n\t\t\tdevice = torch.device(f'cuda')\n\telse:\n\t\tdevice = torch.device('cpu')\n\t...\n\tif args.ddp == True:\n\t\tmodel = wrappingModelwithDDP([model], local_gpu_id=local_gpu_id)\n\ttrainer = Trainer(args, config, device, model, train_dataloader, ... )\n\ttrainer()",
+        "detail": "ddp.main",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tdevice",
+        "kind": 5,
+        "importPath": "ddp.main",
+        "description": "ddp.main",
+        "peekOfCode": "\t\t\tdevice = torch.device(f'cuda')\n\telse:\n\t\tdevice = torch.device('cpu')\n\t...\n\tif args.ddp == True:\n\t\tmodel = wrappingModelwithDDP([model], local_gpu_id=local_gpu_id)\n\ttrainer = Trainer(args, config, device, model, train_dataloader, ... )\n\ttrainer()\nif __name__ == \"__main__\":\n    args = ...",
+        "detail": "ddp.main",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tdevice",
+        "kind": 5,
+        "importPath": "ddp.main",
+        "description": "ddp.main",
+        "peekOfCode": "\t\tdevice = torch.device('cpu')\n\t...\n\tif args.ddp == True:\n\t\tmodel = wrappingModelwithDDP([model], local_gpu_id=local_gpu_id)\n\ttrainer = Trainer(args, config, device, model, train_dataloader, ... )\n\ttrainer()\nif __name__ == \"__main__\":\n    args = ...\n    config = ...\n    main(args, config)",
+        "detail": "ddp.main",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tmodel",
+        "kind": 5,
+        "importPath": "ddp.main",
+        "description": "ddp.main",
+        "peekOfCode": "\t\tmodel = wrappingModelwithDDP([model], local_gpu_id=local_gpu_id)\n\ttrainer = Trainer(args, config, device, model, train_dataloader, ... )\n\ttrainer()\nif __name__ == \"__main__\":\n    args = ...\n    config = ...\n    main(args, config)",
+        "detail": "ddp.main",
+        "documentation": {}
+    },
+    {
+        "label": "\ttrainer",
+        "kind": 5,
+        "importPath": "ddp.main",
+        "description": "ddp.main",
+        "peekOfCode": "\ttrainer = Trainer(args, config, device, model, train_dataloader, ... )\n\ttrainer()\nif __name__ == \"__main__\":\n    args = ...\n    config = ...\n    main(args, config)",
+        "detail": "ddp.main",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "ddp.main_using_mp",
+        "description": "ddp.main_using_mp",
+        "peekOfCode": "def main(rank, args, config):\n\tif args.ddp == True:\n\t\tinit_distributed_training(args)\n\t\tset_seed_ddp(config['seed'], args.rank)\n\t\tlocal_gpu_id = args.rank\n\t\tnum_processes = args.world_size\n\ttrain_dataset = Dataset(...)\n\tif args.ddp == True :\n\t\ttotal_num_workers = config['train']['num_workers'] * num_processes\n\t\ttotal_batch_size = config['train']['batch'] * num_processes",
+        "detail": "ddp.main_using_mp",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tlocal_gpu_id",
+        "kind": 5,
+        "importPath": "ddp.main_using_mp",
+        "description": "ddp.main_using_mp",
+        "peekOfCode": "\t\tlocal_gpu_id = args.rank\n\t\tnum_processes = args.world_size\n\ttrain_dataset = Dataset(...)\n\tif args.ddp == True :\n\t\ttotal_num_workers = config['train']['num_workers'] * num_processes\n\t\ttotal_batch_size = config['train']['batch'] * num_processes\n\t\ttrain_dataset_sampler = DistributedSampler(train_dataset, shuffle=True)\n\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=total_batch_size, sampler=train_dataset_sampler, num_workers=total_num_workers)\n\telse:\n\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=config['train']['batch'], shuffle=True, num_workers=config['train']['num_workers'])",
+        "detail": "ddp.main_using_mp",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tnum_processes",
+        "kind": 5,
+        "importPath": "ddp.main_using_mp",
+        "description": "ddp.main_using_mp",
+        "peekOfCode": "\t\tnum_processes = args.world_size\n\ttrain_dataset = Dataset(...)\n\tif args.ddp == True :\n\t\ttotal_num_workers = config['train']['num_workers'] * num_processes\n\t\ttotal_batch_size = config['train']['batch'] * num_processes\n\t\ttrain_dataset_sampler = DistributedSampler(train_dataset, shuffle=True)\n\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=total_batch_size, sampler=train_dataset_sampler, num_workers=total_num_workers)\n\telse:\n\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=config['train']['batch'], shuffle=True, num_workers=config['train']['num_workers'])\n\tif torch.cuda.is_available():",
+        "detail": "ddp.main_using_mp",
+        "documentation": {}
+    },
+    {
+        "label": "\ttrain_dataset",
+        "kind": 5,
+        "importPath": "ddp.main_using_mp",
+        "description": "ddp.main_using_mp",
+        "peekOfCode": "\ttrain_dataset = Dataset(...)\n\tif args.ddp == True :\n\t\ttotal_num_workers = config['train']['num_workers'] * num_processes\n\t\ttotal_batch_size = config['train']['batch'] * num_processes\n\t\ttrain_dataset_sampler = DistributedSampler(train_dataset, shuffle=True)\n\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=total_batch_size, sampler=train_dataset_sampler, num_workers=total_num_workers)\n\telse:\n\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=config['train']['batch'], shuffle=True, num_workers=config['train']['num_workers'])\n\tif torch.cuda.is_available():\n\t\tif args.ddp == True:",
+        "detail": "ddp.main_using_mp",
+        "documentation": {}
+    },
+    {
+        "label": "\t\ttotal_num_workers",
+        "kind": 5,
+        "importPath": "ddp.main_using_mp",
+        "description": "ddp.main_using_mp",
+        "peekOfCode": "\t\ttotal_num_workers = config['train']['num_workers'] * num_processes\n\t\ttotal_batch_size = config['train']['batch'] * num_processes\n\t\ttrain_dataset_sampler = DistributedSampler(train_dataset, shuffle=True)\n\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=total_batch_size, sampler=train_dataset_sampler, num_workers=total_num_workers)\n\telse:\n\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=config['train']['batch'], shuffle=True, num_workers=config['train']['num_workers'])\n\tif torch.cuda.is_available():\n\t\tif args.ddp == True:\n\t\t\tdevice = torch.device(f'cuda:{local_gpu_id}')\n\t\telse :",
+        "detail": "ddp.main_using_mp",
+        "documentation": {}
+    },
+    {
+        "label": "\t\ttotal_batch_size",
+        "kind": 5,
+        "importPath": "ddp.main_using_mp",
+        "description": "ddp.main_using_mp",
+        "peekOfCode": "\t\ttotal_batch_size = config['train']['batch'] * num_processes\n\t\ttrain_dataset_sampler = DistributedSampler(train_dataset, shuffle=True)\n\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=total_batch_size, sampler=train_dataset_sampler, num_workers=total_num_workers)\n\telse:\n\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=config['train']['batch'], shuffle=True, num_workers=config['train']['num_workers'])\n\tif torch.cuda.is_available():\n\t\tif args.ddp == True:\n\t\t\tdevice = torch.device(f'cuda:{local_gpu_id}')\n\t\telse :\n\t\t\tdevice = torch.device(f'cuda')",
+        "detail": "ddp.main_using_mp",
+        "documentation": {}
+    },
+    {
+        "label": "\t\ttrain_dataset_sampler",
+        "kind": 5,
+        "importPath": "ddp.main_using_mp",
+        "description": "ddp.main_using_mp",
+        "peekOfCode": "\t\ttrain_dataset_sampler = DistributedSampler(train_dataset, shuffle=True)\n\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=total_batch_size, sampler=train_dataset_sampler, num_workers=total_num_workers)\n\telse:\n\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=config['train']['batch'], shuffle=True, num_workers=config['train']['num_workers'])\n\tif torch.cuda.is_available():\n\t\tif args.ddp == True:\n\t\t\tdevice = torch.device(f'cuda:{local_gpu_id}')\n\t\telse :\n\t\t\tdevice = torch.device(f'cuda')\n\telse:",
+        "detail": "ddp.main_using_mp",
+        "documentation": {}
+    },
+    {
+        "label": "\t\ttrain_dataloader",
+        "kind": 5,
+        "importPath": "ddp.main_using_mp",
+        "description": "ddp.main_using_mp",
+        "peekOfCode": "\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=total_batch_size, sampler=train_dataset_sampler, num_workers=total_num_workers)\n\telse:\n\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=config['train']['batch'], shuffle=True, num_workers=config['train']['num_workers'])\n\tif torch.cuda.is_available():\n\t\tif args.ddp == True:\n\t\t\tdevice = torch.device(f'cuda:{local_gpu_id}')\n\t\telse :\n\t\t\tdevice = torch.device(f'cuda')\n\telse:\n\t\tdevice = torch.device('cpu')",
+        "detail": "ddp.main_using_mp",
+        "documentation": {}
+    },
+    {
+        "label": "\t\ttrain_dataloader",
+        "kind": 5,
+        "importPath": "ddp.main_using_mp",
+        "description": "ddp.main_using_mp",
+        "peekOfCode": "\t\ttrain_dataloader = DataLoader(train_dataset, batch_size=config['train']['batch'], shuffle=True, num_workers=config['train']['num_workers'])\n\tif torch.cuda.is_available():\n\t\tif args.ddp == True:\n\t\t\tdevice = torch.device(f'cuda:{local_gpu_id}')\n\t\telse :\n\t\t\tdevice = torch.device(f'cuda')\n\telse:\n\t\tdevice = torch.device('cpu')\n\t...\n\tif args.ddp == True:",
+        "detail": "ddp.main_using_mp",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tdevice",
+        "kind": 5,
+        "importPath": "ddp.main_using_mp",
+        "description": "ddp.main_using_mp",
+        "peekOfCode": "\t\t\tdevice = torch.device(f'cuda:{local_gpu_id}')\n\t\telse :\n\t\t\tdevice = torch.device(f'cuda')\n\telse:\n\t\tdevice = torch.device('cpu')\n\t...\n\tif args.ddp == True:\n\t\tmodel = wrappingModelwithDDP([model], local_gpu_id=local_gpu_id)\n\ttrainer = Trainer(args, config, device, model, train_dataloader, ... )\n\ttrainer()",
+        "detail": "ddp.main_using_mp",
+        "documentation": {}
+    },
+    {
+        "label": "\t\t\tdevice",
+        "kind": 5,
+        "importPath": "ddp.main_using_mp",
+        "description": "ddp.main_using_mp",
+        "peekOfCode": "\t\t\tdevice = torch.device(f'cuda')\n\telse:\n\t\tdevice = torch.device('cpu')\n\t...\n\tif args.ddp == True:\n\t\tmodel = wrappingModelwithDDP([model], local_gpu_id=local_gpu_id)\n\ttrainer = Trainer(args, config, device, model, train_dataloader, ... )\n\ttrainer()\nif __name__ == \"__main__\":\n    args = ...",
+        "detail": "ddp.main_using_mp",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tdevice",
+        "kind": 5,
+        "importPath": "ddp.main_using_mp",
+        "description": "ddp.main_using_mp",
+        "peekOfCode": "\t\tdevice = torch.device('cpu')\n\t...\n\tif args.ddp == True:\n\t\tmodel = wrappingModelwithDDP([model], local_gpu_id=local_gpu_id)\n\ttrainer = Trainer(args, config, device, model, train_dataloader, ... )\n\ttrainer()\nif __name__ == \"__main__\":\n    args = ...\n    config = ...\n    args.ngpus_per_node = torch.cuda.device_count()",
+        "detail": "ddp.main_using_mp",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tmodel",
+        "kind": 5,
+        "importPath": "ddp.main_using_mp",
+        "description": "ddp.main_using_mp",
+        "peekOfCode": "\t\tmodel = wrappingModelwithDDP([model], local_gpu_id=local_gpu_id)\n\ttrainer = Trainer(args, config, device, model, train_dataloader, ... )\n\ttrainer()\nif __name__ == \"__main__\":\n    args = ...\n    config = ...\n    args.ngpus_per_node = torch.cuda.device_count()\n    args.gpu_ids = list(range(args.ngpus_per_node))\n    # Do not assign Environment Variables\n    mp.spawn(",
+        "detail": "ddp.main_using_mp",
+        "documentation": {}
+    },
+    {
+        "label": "\ttrainer",
+        "kind": 5,
+        "importPath": "ddp.main_using_mp",
+        "description": "ddp.main_using_mp",
+        "peekOfCode": "\ttrainer = Trainer(args, config, device, model, train_dataloader, ... )\n\ttrainer()\nif __name__ == \"__main__\":\n    args = ...\n    config = ...\n    args.ngpus_per_node = torch.cuda.device_count()\n    args.gpu_ids = list(range(args.ngpus_per_node))\n    # Do not assign Environment Variables\n    mp.spawn(\n            main, args=(args,), nprocs=args.ngpus_per_node, join=True",
+        "detail": "ddp.main_using_mp",
+        "documentation": {}
+    },
+    {
+        "label": "Trainer",
+        "kind": 6,
+        "importPath": "ddp.train",
+        "description": "ddp.train",
+        "peekOfCode": "class Trainer:\n    args: argparse.Namespace\n    config: dict\n    device: torch.device = torch.device(\"cpu\")\n    model: torch.nn.Module\n    train_loader: torch.utils.data.DataLoader\n    val_loader: torch.utils.data.DataLoader\n    optimizer: torch.optim.Optimizer\n    epochs: int = 10\n    def __call__(self):",
+        "detail": "ddp.train",
+        "documentation": {}
+    },
+    {
+        "label": "throughOnlyOnce",
+        "kind": 2,
+        "importPath": "ddp.utils",
+        "description": "ddp.utils",
+        "peekOfCode": "def throughOnlyOnce(rank, func):\n    def wrapper(*args, **kwargs):\n        if rank == 0:\n            func(*args, **kwargs)\n    return wrapper\ndef set_seed_ddp(seed: int, rank: int):\n    torch.manual_seed(seed+rank) # PyTorch를 위한 Seed 설정\n    torch.cuda.manual_seed(seed+rank) # CUDA를 위한 Seed 설정 (GPU 사용 시)\n    torch.cuda.manual_seed_all(seed+rank) # 멀티 GPU 사용 시 모든 CUDA 장치를 위한 Seed 설정\n    torch.backends.cudnn.deterministic = True # CUDNN 연산자의 결정론적 옵션 활성화",
+        "detail": "ddp.utils",
+        "documentation": {}
+    },
+    {
+        "label": "set_seed_ddp",
+        "kind": 2,
+        "importPath": "ddp.utils",
+        "description": "ddp.utils",
+        "peekOfCode": "def set_seed_ddp(seed: int, rank: int):\n    torch.manual_seed(seed+rank) # PyTorch를 위한 Seed 설정\n    torch.cuda.manual_seed(seed+rank) # CUDA를 위한 Seed 설정 (GPU 사용 시)\n    torch.cuda.manual_seed_all(seed+rank) # 멀티 GPU 사용 시 모든 CUDA 장치를 위한 Seed 설정\n    torch.backends.cudnn.deterministic = True # CUDNN 연산자의 결정론적 옵션 활성화\n    torch.backends.cudnn.benchmark = False # CUDNN 벤치마크 모드 비활성화\n    np.random.seed(seed+rank) # Numpy를 위한 Seed 설정\n    random.seed(seed+rank) # Python 내장 random 모듈을 위한 Seed 설정\ndef wrappingModelwithDDP(models, local_gpu_id):\n    wrapped_models = []",
+        "detail": "ddp.utils",
+        "documentation": {}
+    },
+    {
+        "label": "wrappingModelwithDDP",
+        "kind": 2,
+        "importPath": "ddp.utils",
+        "description": "ddp.utils",
+        "peekOfCode": "def wrappingModelwithDDP(models, local_gpu_id):\n    wrapped_models = []\n    for model in models:\n        has_trainable_params = any(p.requires_grad for p in model.parameters())\n        if not has_trainable_params:\n            print(f\"The model {model.__class__.__name__} does not have any trainable parameters.\")\n            wrapped_models.append(model.cuda(local_gpu_id))\n            continue\n        wrapped_models.append(DDP(module=model, device_ids=[local_gpu_id], find_unused_parameters=False))\n    return wrapped_models if len(wrapped_models) != 1 else wrapped_models[0]",
+        "detail": "ddp.utils",
+        "documentation": {}
+    },
+    {
+        "label": "setup_for_distributed",
+        "kind": 2,
+        "importPath": "ddp.utils",
+        "description": "ddp.utils",
+        "peekOfCode": "def setup_for_distributed(is_master):\n    \"\"\"This function disables printing when not in master process.\"\"\"\n    import builtins as __builtin__\n    builtin_print = __builtin__.print\n    def print(*args, **kwargs):\n        force = kwargs.pop('force', False)\n        if is_master or force:\n            builtin_print(*args, **kwargs)\n    __builtin__.print = print\ndef get_environment_variable(var_name, default=None):",
+        "detail": "ddp.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_environment_variable",
+        "kind": 2,
+        "importPath": "ddp.utils",
+        "description": "ddp.utils",
+        "peekOfCode": "def get_environment_variable(var_name, default=None):\n    \"\"\"Helper function to get an environment variable or return a default.\"\"\"\n    return os.environ.get(var_name, default)\ndef set_device_for_distributed(args):\n    \"\"\"Sets the device for the current distributed process.\"\"\"\n    torch.cuda.set_device(args.gpu)\n    print(f'| distributed init (rank {args.rank}): {args.dist_url}', flush=True)\ndef is_master_process(args):\n    \"\"\"Checks if the current process is the master process.\"\"\"\n    return args.rank == 0",
+        "detail": "ddp.utils",
+        "documentation": {}
+    },
+    {
+        "label": "set_device_for_distributed",
+        "kind": 2,
+        "importPath": "ddp.utils",
+        "description": "ddp.utils",
+        "peekOfCode": "def set_device_for_distributed(args):\n    \"\"\"Sets the device for the current distributed process.\"\"\"\n    torch.cuda.set_device(args.gpu)\n    print(f'| distributed init (rank {args.rank}): {args.dist_url}', flush=True)\ndef is_master_process(args):\n    \"\"\"Checks if the current process is the master process.\"\"\"\n    return args.rank == 0\ndef initialize_distributed_backend(args):\n    \"\"\"Initializes the distributed backend based on the environment.\"\"\"\n    dist.init_process_group(",
+        "detail": "ddp.utils",
+        "documentation": {}
+    },
+    {
+        "label": "is_master_process",
+        "kind": 2,
+        "importPath": "ddp.utils",
+        "description": "ddp.utils",
+        "peekOfCode": "def is_master_process(args):\n    \"\"\"Checks if the current process is the master process.\"\"\"\n    return args.rank == 0\ndef initialize_distributed_backend(args):\n    \"\"\"Initializes the distributed backend based on the environment.\"\"\"\n    dist.init_process_group(\n        backend=\"nccl\", # Communication Backends : nccl, gloo, mpi\n        init_method=args.dist_url + get_environment_variable('MASTER_PORT', '29500'),\n        world_size=args.world_size,\n        rank=args.rank,",
+        "detail": "ddp.utils",
+        "documentation": {}
+    },
+    {
+        "label": "initialize_distributed_backend",
+        "kind": 2,
+        "importPath": "ddp.utils",
+        "description": "ddp.utils",
+        "peekOfCode": "def initialize_distributed_backend(args):\n    \"\"\"Initializes the distributed backend based on the environment.\"\"\"\n    dist.init_process_group(\n        backend=\"nccl\", # Communication Backends : nccl, gloo, mpi\n        init_method=args.dist_url + get_environment_variable('MASTER_PORT', '29500'),\n        world_size=args.world_size,\n        rank=args.rank,\n    )\ndef init_distributed_mode(args):\n    \"\"\"Initializes distributed mode based on the environment.\"\"\"",
+        "detail": "ddp.utils",
+        "documentation": {}
+    },
+    {
+        "label": "init_distributed_mode",
+        "kind": 2,
+        "importPath": "ddp.utils",
+        "description": "ddp.utils",
+        "peekOfCode": "def init_distributed_mode(args):\n    \"\"\"Initializes distributed mode based on the environment.\"\"\"\n    if 'WORLD_SIZE' in os.environ:\n        args.rank = int(get_environment_variable(\"RANK\", 0))\n        args.world_size = int(get_environment_variable('WORLD_SIZE', 1))\n        args.gpu = int(get_environment_variable('LOCAL_RANK', 0))\n        print(f\"RANK: {args.rank}, WORLD_SIZE: {args.world_size}, GPU: {args.gpu}\")\n    elif 'SLURM_PROCID' in os.environ:\n        args.rank = int(get_environment_variable('SLURM_PROCID', 0))\n        args.gpu = args.rank % torch.cuda.device_count()",
+        "detail": "ddp.utils",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "debugging.main",
+        "description": "debugging.main",
+        "peekOfCode": "def main(args):\n    print(args)\n    # breakpoint()\ndef parse_args():\n    parser = argparse.ArgumentParser()\n    parser.add_argument('--arg0', action='store_true')\n    parser.add_argument('--arg2')\n    parser.add_argument('--arg3')\n    parser.add_argument('--arg4')\n    args = parser.parse_args()",
+        "detail": "debugging.main",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "debugging.main",
+        "description": "debugging.main",
+        "peekOfCode": "def parse_args():\n    parser = argparse.ArgumentParser()\n    parser.add_argument('--arg0', action='store_true')\n    parser.add_argument('--arg2')\n    parser.add_argument('--arg3')\n    parser.add_argument('--arg4')\n    args = parser.parse_args()\n    return args\nif __name__ == '__main__':\n    args = parse_args()",
+        "detail": "debugging.main",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "debugging.main_using_bp",
+        "description": "debugging.main_using_bp",
+        "peekOfCode": "def main(args):\n    print(args)\n    breakpoint()\n    disjoint_set = UnionFind(100)\n    disjoint_set.union(0, 3)\ndef parse_args():\n    parser = argparse.ArgumentParser()\n    parser.add_argument('--arg0', action='store_true')\n    parser.add_argument('--arg2')\n    parser.add_argument('--arg3')",
+        "detail": "debugging.main_using_bp",
+        "documentation": {}
+    },
+    {
+        "label": "parse_args",
+        "kind": 2,
+        "importPath": "debugging.main_using_bp",
+        "description": "debugging.main_using_bp",
+        "peekOfCode": "def parse_args():\n    parser = argparse.ArgumentParser()\n    parser.add_argument('--arg0', action='store_true')\n    parser.add_argument('--arg2')\n    parser.add_argument('--arg3')\n    parser.add_argument('--arg4')\n    args = parser.parse_args()\n    return args\nif __name__ == '__main__':\n    args = parse_args()",
+        "detail": "debugging.main_using_bp",
+        "documentation": {}
+    },
+    {
+        "label": "UnionFind",
+        "kind": 6,
+        "importPath": "debugging.sample_lib",
+        "description": "debugging.sample_lib",
+        "peekOfCode": "class UnionFind:\n    def __init__(self, n):\n        self.parent = list(range(n))\n        self.rank = [0] * n\n    def find(self, x):\n        if self.parent[x] != x:\n            self.parent[x] = self.find(self.parent[x])\n        return self.parent[x]\n    def union(self, x, y):\n        root_x = self.find(x)",
+        "detail": "debugging.sample_lib",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "deepspeed.example",
+        "description": "deepspeed.example",
+        "peekOfCode": "model = torch.nn.Transformer().to(device)\noptimizer = torch.optim.Adam(model.parameters())\nlr_scheduler = ...\ndataset = load_dataset('my_dataset')\ndata = torch.utils.data.DataLoader(dataset, shuffle=True)\nmodel, optimizer, _, _ = deepspeed.initialize(args=cmd_args,\n                                                model=model,\n                                                model_parameters=model.parameters())\ndeepspeed.init_distributed()\nmodel.train()",
+        "detail": "deepspeed.example",
+        "documentation": {}
+    },
+    {
+        "label": "optimizer",
+        "kind": 5,
+        "importPath": "deepspeed.example",
+        "description": "deepspeed.example",
+        "peekOfCode": "optimizer = torch.optim.Adam(model.parameters())\nlr_scheduler = ...\ndataset = load_dataset('my_dataset')\ndata = torch.utils.data.DataLoader(dataset, shuffle=True)\nmodel, optimizer, _, _ = deepspeed.initialize(args=cmd_args,\n                                                model=model,\n                                                model_parameters=model.parameters())\ndeepspeed.init_distributed()\nmodel.train()\nfor epoch in range(10):",
+        "detail": "deepspeed.example",
+        "documentation": {}
+    },
+    {
+        "label": "lr_scheduler",
+        "kind": 5,
+        "importPath": "deepspeed.example",
+        "description": "deepspeed.example",
+        "peekOfCode": "lr_scheduler = ...\ndataset = load_dataset('my_dataset')\ndata = torch.utils.data.DataLoader(dataset, shuffle=True)\nmodel, optimizer, _, _ = deepspeed.initialize(args=cmd_args,\n                                                model=model,\n                                                model_parameters=model.parameters())\ndeepspeed.init_distributed()\nmodel.train()\nfor epoch in range(10):\n\tfor source, targets in data:",
+        "detail": "deepspeed.example",
+        "documentation": {}
+    },
+    {
+        "label": "dataset",
+        "kind": 5,
+        "importPath": "deepspeed.example",
+        "description": "deepspeed.example",
+        "peekOfCode": "dataset = load_dataset('my_dataset')\ndata = torch.utils.data.DataLoader(dataset, shuffle=True)\nmodel, optimizer, _, _ = deepspeed.initialize(args=cmd_args,\n                                                model=model,\n                                                model_parameters=model.parameters())\ndeepspeed.init_distributed()\nmodel.train()\nfor epoch in range(10):\n\tfor source, targets in data:\n\t\t# source = source.to(device)",
+        "detail": "deepspeed.example",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "deepspeed.example",
+        "description": "deepspeed.example",
+        "peekOfCode": "data = torch.utils.data.DataLoader(dataset, shuffle=True)\nmodel, optimizer, _, _ = deepspeed.initialize(args=cmd_args,\n                                                model=model,\n                                                model_parameters=model.parameters())\ndeepspeed.init_distributed()\nmodel.train()\nfor epoch in range(10):\n\tfor source, targets in data:\n\t\t# source = source.to(device)\n\t\t# targets = targets.to(device)",
+        "detail": "deepspeed.example",
+        "documentation": {}
+    },
+    {
+        "label": "\t\toutput",
+        "kind": 5,
+        "importPath": "deepspeed.example",
+        "description": "deepspeed.example",
+        "peekOfCode": "\t\toutput = model(source)\n\t\tloss = F.cross_entropy(output, targets)\n\t\tmodel.backward(loss) # add\n\t\tmodel.step()",
+        "detail": "deepspeed.example",
+        "documentation": {}
+    },
+    {
+        "label": "\t\tloss",
+        "kind": 5,
+        "importPath": "deepspeed.example",
+        "description": "deepspeed.example",
+        "peekOfCode": "\t\tloss = F.cross_entropy(output, targets)\n\t\tmodel.backward(loss) # add\n\t\tmodel.step()",
+        "detail": "deepspeed.example",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 6,
+        "importPath": "fsdp.example0",
+        "description": "fsdp.example0",
+        "peekOfCode": "class model(nn.Module):\n   def __init__(self):\n       super().__init__()\n       self.layer1 = nn.Linear(8, 4)\n       self.layer2 = nn.Linear(4, 16)\n       self.layer3 = nn.Linear(16, 4)\nmodel = DDP(model())\nfsdp_model = FullyShardedDataParallel(\n   model(),\n   fsdp_auto_wrap_policy=default_auto_wrap_policy,",
+        "detail": "fsdp.example0",
+        "documentation": {}
+    },
+    {
+        "label": "model",
+        "kind": 5,
+        "importPath": "fsdp.example0",
+        "description": "fsdp.example0",
+        "peekOfCode": "model = DDP(model())\nfsdp_model = FullyShardedDataParallel(\n   model(),\n   fsdp_auto_wrap_policy=default_auto_wrap_policy,\n   cpu_offload=CPUOffload(offload_params=True),\n)",
+        "detail": "fsdp.example0",
+        "documentation": {}
+    },
+    {
+        "label": "fsdp_model",
+        "kind": 5,
+        "importPath": "fsdp.example0",
+        "description": "fsdp.example0",
+        "peekOfCode": "fsdp_model = FullyShardedDataParallel(\n   model(),\n   fsdp_auto_wrap_policy=default_auto_wrap_policy,\n   cpu_offload=CPUOffload(offload_params=True),\n)",
+        "detail": "fsdp.example0",
+        "documentation": {}
+    },
+    {
+        "label": "train",
+        "kind": 2,
+        "importPath": "fsdp.example1",
+        "description": "fsdp.example1",
+        "peekOfCode": "def train(rank, world_size, batch_size, epochs=100):\n    global_rank = rank\n    dist.init_process_group(\n        backend=\"nccl\",\n        init_method=\"tcp://127.0.0.1:33445\",\n        rank=global_rank,\n        world_size=world_size,\n    )\n    torch.cuda.set_device(rank)\n    model = T5ForConditionalGeneration.from_pretrained(\"t5-large\")",
+        "detail": "fsdp.example1",
+        "documentation": {}
+    }
+]
