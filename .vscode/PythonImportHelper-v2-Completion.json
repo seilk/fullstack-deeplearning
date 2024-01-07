@@ -1674,7 +1674,7 @@
         "kind": 5,
         "importPath": "ddp.main",
         "description": "ddp.main",
-        "peekOfCode": "\t\t\tdevice = torch.device(f'cuda')\n\telse:\n\t\tdevice = torch.device('cpu')\n\t...\n\tif args.ddp == True:\n\t\tmodel = wrappingModelwithDDP([model], local_gpu_id=local_gpu_id)\n\ttrainer = Trainer(args, config, device, model, train_dataloader, ... )\n\ttrainer()\nif __name__ == \"__main__\":\n    args = ...",
+        "peekOfCode": "\t\t\tdevice = torch.device(f'cuda')\n\telse:\n\t\tdevice = torch.device('cpu')\n\t...\n\tif args.ddp == True:\n\t\tmodel = wrappingModelwithDDP([model], local_gpu_id=local_gpu_id)\n\ttrainer = Trainer(args, config, device, model, train_dataloader, ... )\n\ttrainer()\nif __name__ == \"__main__\":\n\targs = ...",
         "detail": "ddp.main",
         "documentation": {}
     },
@@ -1683,7 +1683,7 @@
         "kind": 5,
         "importPath": "ddp.main",
         "description": "ddp.main",
-        "peekOfCode": "\t\tdevice = torch.device('cpu')\n\t...\n\tif args.ddp == True:\n\t\tmodel = wrappingModelwithDDP([model], local_gpu_id=local_gpu_id)\n\ttrainer = Trainer(args, config, device, model, train_dataloader, ... )\n\ttrainer()\nif __name__ == \"__main__\":\n    args = ...\n    config = ...\n    main(args, config)",
+        "peekOfCode": "\t\tdevice = torch.device('cpu')\n\t...\n\tif args.ddp == True:\n\t\tmodel = wrappingModelwithDDP([model], local_gpu_id=local_gpu_id)\n\ttrainer = Trainer(args, config, device, model, train_dataloader, ... )\n\ttrainer()\nif __name__ == \"__main__\":\n\targs = ...\n\tconfig = ...\n\tmain(args, config)",
         "detail": "ddp.main",
         "documentation": {}
     },
@@ -1692,7 +1692,7 @@
         "kind": 5,
         "importPath": "ddp.main",
         "description": "ddp.main",
-        "peekOfCode": "\t\tmodel = wrappingModelwithDDP([model], local_gpu_id=local_gpu_id)\n\ttrainer = Trainer(args, config, device, model, train_dataloader, ... )\n\ttrainer()\nif __name__ == \"__main__\":\n    args = ...\n    config = ...\n    main(args, config)",
+        "peekOfCode": "\t\tmodel = wrappingModelwithDDP([model], local_gpu_id=local_gpu_id)\n\ttrainer = Trainer(args, config, device, model, train_dataloader, ... )\n\ttrainer()\nif __name__ == \"__main__\":\n\targs = ...\n\tconfig = ...\n\tmain(args, config)",
         "detail": "ddp.main",
         "documentation": {}
     },
@@ -1701,7 +1701,25 @@
         "kind": 5,
         "importPath": "ddp.main",
         "description": "ddp.main",
-        "peekOfCode": "\ttrainer = Trainer(args, config, device, model, train_dataloader, ... )\n\ttrainer()\nif __name__ == \"__main__\":\n    args = ...\n    config = ...\n    main(args, config)",
+        "peekOfCode": "\ttrainer = Trainer(args, config, device, model, train_dataloader, ... )\n\ttrainer()\nif __name__ == \"__main__\":\n\targs = ...\n\tconfig = ...\n\tmain(args, config)",
+        "detail": "ddp.main",
+        "documentation": {}
+    },
+    {
+        "label": "\targs",
+        "kind": 5,
+        "importPath": "ddp.main",
+        "description": "ddp.main",
+        "peekOfCode": "\targs = ...\n\tconfig = ...\n\tmain(args, config)",
+        "detail": "ddp.main",
+        "documentation": {}
+    },
+    {
+        "label": "\tconfig",
+        "kind": 5,
+        "importPath": "ddp.main",
+        "description": "ddp.main",
+        "peekOfCode": "\tconfig = ...\n\tmain(args, config)",
         "detail": "ddp.main",
         "documentation": {}
     },
