@@ -1,8 +1,10 @@
 import torch
-from ddp_utils import init_distributed_training, wrappingModelwithDDP, set_seed_ddp
-from torch.utils.data.distributed import DistributedSampler
+from ddp_utils import (init_distributed_training, set_seed_ddp,
+                       wrappingModelwithDDP)
 from torch.utils.data import DataLoader, Dataset
+from torch.utils.data.distributed import DistributedSampler
 from train import Trainer
+
 
 def main(args, config):
 	
