@@ -5,7 +5,7 @@ import torch
 import torch.nn as nn
 import torch.distributed as dist
 from collections import OrderedDict
-from ddp_utils import throughOnlyOnce
+from utils import accThroughOnlyOnce
 
 @define
 class Trainer:
@@ -17,13 +17,14 @@ class Trainer:
     val_loader: torch.utils.data.DataLoader
     optimizer: torch.optim.Optimizer
     epochs: int = 10
+    accelerator: field(default=None)
 
     def __call__(self):
         """
         Implement the training logic here.
         """
         for epoch in range(self.epochs):
-            self.train_epoch(self.model, self.train_loader, self.optimizer)
+            self.train_epoch(self.model, self.train_loader, self.optimizer, self.accelerator)
             # If you want to push the model to the validation module is in where different from the training module,
             # You have to push `model.module` instead of `model`
             self.validate_epoch(self.model, self.val_loader)
@@ -38,12 +39,13 @@ class Trainer:
         for batch in train_loader:
             # Training logic for each batch
             ...
-            loss.backward()
+            # loss.backward()
+            self.accelerator.backward(loss)
             optimizer.step()
-            self.save_model_state_dict(model, 'model_state.pth')
+            self.save_model_state_dict(model, self.accelerator, 'model_state.pth')
             dist.barrier()  # Wait for all processes to save the model
     
-    @throughOnlyOnce
+    @accThroughOnlyOnce
     def validate_epoch(self):
         """
         Implement the validation logic for one epoch.
@@ -54,22 +56,10 @@ class Trainer:
                 # Validation logic for each batch
                 ...
 
-    @throughOnlyOnce
-    def save_model_state_dict(self, model, filename):
-        try:
-            # Try to access the underlying model in DDP
-            state_dict = model.module.state_dict()
-        except AttributeError:
-            # If model is not wrapped in DDP, save normally
-            state_dict = model.state_dict()
-
-        # Optionally, you can remove 'module.' prefix from state_dict keys
-        clean_state_dict = OrderedDict()
-        for k, v in state_dict.items():
-            name = k[7:] if k.startswith('module.') else k
-            clean_state_dict[name] = v
-
-        torch.save(clean_state_dict, filename)
+    @accThroughOnlyOnce
+    def save_model_state_dict(self, model, accelerator, filename):
+        model = accelerator.unwrap_model(model)
+        accelerator.save_state(output_dir="my_checkpoint")
     
 # Example usage
 # trainer = Trainer(model, train_loader, val_loader, optimizer)
