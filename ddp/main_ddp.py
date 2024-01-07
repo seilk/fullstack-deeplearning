@@ -35,4 +35,5 @@ def main(args, config):
 	if args.ddp == True:
         model = wrappingModelwithDDP([model], local_gpu_id=local_gpu_id)'
 	
-	trainer = Trainer(args, config, model, train_dataloader, ... )
+	trainer = Trainer(args, config, device, model, train_dataloader, ... )
+	trainer()
