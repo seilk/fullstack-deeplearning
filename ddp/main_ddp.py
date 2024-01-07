@@ -17,10 +17,7 @@ def main(args, config):
 		total_num_workers = config['train']['num_workers'] * num_processes
     	total_batch_size = config['train']['batch'] * num_processes
 		train_dataset_sampler = DistributedSampler(train_dataset, shuffle=True)
-        train_dataloader = DataLoader(train_dataset, 
-									  batch_size=total_batch_size, 
-									  sampler=train_dataset_sampler, 
-									  num_workers=total_num_workers)
+        train_dataloader = DataLoader(train_dataset, batch_size=total_batch_size, sampler=train_dataset_sampler, num_workers=total_num_workers)
 	else:
 		train_dataloader = DataLoader(train_dataset, batch_size=config['train']['batch'], shuffle=True, num_workers=config['train']['num_workers'])
 	
