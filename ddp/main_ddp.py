@@ -18,14 +18,11 @@ def main(args, config):
     	total_batch_size = config['train']['batch'] * num_processes
 		train_dataset_sampler = DistributedSampler(train_dataset, shuffle=True)
         train_dataloader = DataLoader(train_dataset, 
-				  					batch_size=total_batch_size, 
-				  					sampler=train_dataset_sampler, 
-				  					num_workers=total_num_workers)
+									  batch_size=total_batch_size, 
+									  sampler=train_dataset_sampler, 
+									  num_workers=total_num_workers)
 	else:
-		train_dataloader = DataLoader(train_dataset, 
-					  			batch_size=config['train']['batch'], 
-					  			shuffle=True, 
-					  			num_workers=config['train']['num_workers'])
+		train_dataloader = DataLoader(train_dataset, batch_size=config['train']['batch'], shuffle=True, num_workers=config['train']['num_workers'])
 	
 	if torch.cuda.is_available():
         if args.ddp == True:
@@ -40,8 +37,4 @@ def main(args, config):
 	if args.ddp == True:
         model = wrappingModelwithDDP([model], local_gpu_id=local_gpu_id)'
 	
-	trainer = Trainer(args,
-					config,
-					model,
-					train_dataloader,
-					... )
+	trainer = Trainer(args, config, model, train_dataloader, ... )
