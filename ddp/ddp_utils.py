@@ -50,17 +50,6 @@ def get_environment_variable(var_name, default=None):
     """Helper function to get an environment variable or return a default."""
     return os.environ.get(var_name, default)
 
-
-def initialize_distributed_backend(args):
-    """Initializes the distributed backend based on the environment."""
-    dist.init_process_group(
-        backend="nccl",
-        init_method=args.dist_url + get_environment_variable('MASTER_PORT', '29500'),
-        world_size=args.world_size,
-        rank=args.rank,
-    )
-
-
 def set_device_for_distributed(args):
     """Sets the device for the current distributed process."""
     torch.cuda.set_device(args.gpu)
@@ -71,6 +60,14 @@ def is_master_process(args):
     """Checks if the current process is the master process."""
     return args.rank == 0
 
+def initialize_distributed_backend(args):
+    """Initializes the distributed backend based on the environment."""
+    dist.init_process_group(
+        backend="nccl", # Communication Backends : nccl, gloo, mpi
+        init_method=args.dist_url + get_environment_variable('MASTER_PORT', '29500'),
+        world_size=args.world_size,
+        rank=args.rank,
+    )
 
 def init_distributed_mode(args):
     """Initializes distributed mode based on the environment."""
