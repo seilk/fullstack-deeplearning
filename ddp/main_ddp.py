@@ -37,3 +37,8 @@ def main(args, config):
 	
 	trainer = Trainer(args, config, device, model, train_dataloader, ... )
 	trainer()
+
+if __name__ == "__main__":
+    args = ...
+    config = ...
+    main(args, config)
