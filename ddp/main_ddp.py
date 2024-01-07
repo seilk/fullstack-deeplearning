@@ -1,5 +1,5 @@
 import torch
-from .ddp_init import init_distributed_training, wrappingModelwithDDP, set_seed_ddp
+from .ddp_utils import init_distributed_training, wrappingModelwithDDP, set_seed_ddp
 from torch.utils.data.distributed import DistributedSampler
 from torch.utils.data import DataLoader, Dataset
 from train import Trainer

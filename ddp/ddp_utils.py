@@ -1,10 +1,17 @@
 import os
 import sys
+import random 
 
 import torch
 import torch.distributed as dist
-import random 
+from torch.nn.parallel import DistributedDataParallel as DDP
 import numpy as np
+
+def throughOnlyOnce(rank, func):
+    def wrapper(*args, **kwargs):
+        if rank == 0:
+            func(*args, **kwargs)
+    return wrapper
 
 def set_seed_ddp(seed: int, rank: int):
     torch.manual_seed(seed+rank) # PyTorch를 위한 Seed 설정
