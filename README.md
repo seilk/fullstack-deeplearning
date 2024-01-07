@@ -1,1 +1,1 @@
-# Forward to Full-Stack DeepLearning 🚀
+# Towards Full-Stack DeepLearning 🚀
