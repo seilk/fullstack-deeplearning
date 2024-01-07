@@ -4,7 +4,17 @@ import sys
 import torch
 import torch.distributed as dist
 
-
+def wrappingModelwithDDP(models, local_gpu_id):
+    wrapped_models = []
+    for model in models:
+        has_trainable_params = any(p.requires_grad for p in model.parameters())
+        if not has_trainable_params:
+            print(f"The model {model.__class__.__name__} does not have any trainable parameters.")
+            wrapped_models.append(model.cuda(local_gpu_id))
+            continue
+        wrapped_models.append(DDP(module=model, device_ids=[local_gpu_id], find_unused_parameters=False))
+    return wrapped_models if len(wrapped_models) != 1 else wrapped_models[0]
+    
 def setup_for_distributed(is_master):
     """This function disables printing when not in master process."""
     import builtins as __builtin__
