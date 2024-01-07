@@ -3,6 +3,17 @@ import sys
 
 import torch
 import torch.distributed as dist
+import random 
+import numpy as np
+
+def set_seed_ddp(seed: int, rank: int):
+    torch.manual_seed(seed+rank) # PyTorch를 위한 Seed 설정
+    torch.cuda.manual_seed(seed+rank) # CUDA를 위한 Seed 설정 (GPU 사용 시)
+    torch.cuda.manual_seed_all(seed+rank) # 멀티 GPU 사용 시 모든 CUDA 장치를 위한 Seed 설정
+    torch.backends.cudnn.deterministic = True # CUDNN 연산자의 결정론적 옵션 활성화
+    torch.backends.cudnn.benchmark = False # CUDNN 벤치마크 모드 비활성화
+    np.random.seed(seed+rank) # Numpy를 위한 Seed 설정
+    random.seed(seed+rank) # Python 내장 random 모듈을 위한 Seed 설정
 
 def wrappingModelwithDDP(models, local_gpu_id):
     wrapped_models = []
