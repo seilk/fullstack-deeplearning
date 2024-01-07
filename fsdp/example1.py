@@ -1,5 +1,6 @@
 import functools
-
+import torch
+from torch import distributed as dist
 from torch.distributed.fsdp import FullyShardedDataParallel as FSDP
 from torch.distributed.fsdp.wrap import transformer_auto_wrap_policy
 from transformers.models.t5.modeling_t5 import T5Block
