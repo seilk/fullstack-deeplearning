@@ -1,14 +1,17 @@
-from attr import define
+from attrs import define, field
 import torch
+import argparse
 
 @define
 class Trainer:
+    args: argparse.Namespace
+    config: dict
+    device: torch.device = torch.device("cpu")
     model: torch.nn.Module
     train_loader: torch.utils.data.DataLoader
     val_loader: torch.utils.data.DataLoader
     optimizer: torch.optim.Optimizer
     epochs: int = 10
-    device: torch.device = torch.device("cpu")
 
     def __call__(self):
         """
