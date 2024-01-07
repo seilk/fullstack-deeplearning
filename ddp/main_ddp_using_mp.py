@@ -3,8 +3,9 @@ from .ddp_utils import init_distributed_training, wrappingModelwithDDP, set_seed
 from torch.utils.data.distributed import DistributedSampler
 from torch.utils.data import DataLoader, Dataset
 from train import Trainer
+from torch import multiprocessing as mp
 
-def main(args, config):
+def main(rank, args, config):
 	
 	if args.ddp == True:
 		init_distributed_training(args)
@@ -41,5 +42,10 @@ def main(args, config):
 if __name__ == "__main__":
     args = ...
     config = ...
-    main(args, config)
+    args.ngpus_per_node = torch.cuda.device_count()
+    args.gpu_ids = list(range(args.ngpus_per_node))
+    # Do not assign Environment Variables
+    mp.spawn(
+            main, args=(args,), nprocs=args.ngpus_per_node, join=True
+        )
     

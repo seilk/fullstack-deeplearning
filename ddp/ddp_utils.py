@@ -93,4 +93,5 @@ def init_distributed_mode(args):
     initialize_distributed_backend(args)
     set_device_for_distributed(args)
     setup_for_distributed(is_master_process(args))
-    dist.barrier()
+    
+    dist.barrier() # Synchronize all processes
