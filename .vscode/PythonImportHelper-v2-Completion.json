@@ -187,6 +187,22 @@
         "documentation": {}
     },
     {
+        "label": "define",
+        "importPath": "attrs",
+        "description": "attrs",
+        "isExtraImport": true,
+        "detail": "attrs",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "attrs",
+        "description": "attrs",
+        "isExtraImport": true,
+        "detail": "attrs",
+        "documentation": {}
+    },
+    {
         "label": "argparse",
         "kind": 6,
         "isExtraImport": true,
@@ -278,12 +294,21 @@
         "documentation": {}
     },
     {
-        "label": "io",
+        "label": "functools",
         "kind": 6,
         "isExtraImport": true,
-        "importPath": "io",
-        "description": "io",
-        "detail": "io",
+        "importPath": "functools",
+        "description": "functools",
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
         "documentation": {}
     },
     {
@@ -304,12 +329,20 @@
         "documentation": {}
     },
     {
-        "label": "functools",
+        "label": "contextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "io",
         "kind": 6,
         "isExtraImport": true,
-        "importPath": "functools",
-        "description": "functools",
-        "detail": "functools",
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
         "documentation": {}
     },
     {
@@ -432,15 +465,6 @@
         "importPath": "json",
         "description": "json",
         "detail": "json",
-        "documentation": {}
-    },
-    {
-        "label": "time",
-        "kind": 6,
-        "isExtraImport": true,
-        "importPath": "time",
-        "description": "time",
-        "detail": "time",
         "documentation": {}
     },
     {
@@ -884,6 +908,78 @@
         "description": "accelerate.utils",
         "peekOfCode": "def accThroughOnlyOnce(rank, func):\n    from main import accelerator\n    def wrapper(*args, **kwargs):\n        if accelerator.is_main_process:\n            func(*args, **kwargs)\n    return wrapper",
         "detail": "accelerate.utils",
+        "documentation": {}
+    },
+    {
+        "label": "Newjeans",
+        "kind": 6,
+        "importPath": "advanced-python-features.decorators_0",
+        "description": "advanced-python-features.decorators_0",
+        "peekOfCode": "class Newjeans():\n    members: list = field(default=['민지','해린', '혜인', '다니엘', '하니'])\n    ent: str = field(default=\"hive\")\n    tier: int = field(default=0) \n    songs: list = field(default=[])\n    def set_song(self, song):\n        self.songs.append(song)\n    @classmethod\n    def set_tier(cls, tier):\n        cls.tier = tier",
+        "detail": "advanced-python-features.decorators_0",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "advanced-python-features.decorators_0",
+        "description": "advanced-python-features.decorators_0",
+        "peekOfCode": "def main():\n    idol = Newjeans()\n    Newjeans.say\n    idol.set_tier(1)\nif __name__ == \"__main__\":\n    main()",
+        "detail": "advanced-python-features.decorators_0",
+        "documentation": {}
+    },
+    {
+        "label": "ignoring",
+        "kind": 2,
+        "importPath": "advanced-python-features.decorators_1",
+        "description": "advanced-python-features.decorators_1",
+        "peekOfCode": "def ignoring(*exceptions):\n    try:\n        yield\n    except exceptions:\n        pass\nPATH = \"test.txt\"\n@contextmanager\ndef TemporaryPath(path):\n    global PATH # explicitly declare global variable\n    raw_path = path",
+        "detail": "advanced-python-features.decorators_1",
+        "documentation": {}
+    },
+    {
+        "label": "TemporaryPath",
+        "kind": 2,
+        "importPath": "advanced-python-features.decorators_1",
+        "description": "advanced-python-features.decorators_1",
+        "peekOfCode": "def TemporaryPath(path):\n    global PATH # explicitly declare global variable\n    raw_path = path\n    try:\n        file_name, file_extension = os.path.splitext(path)\n        PATH = file_name + \"_temp\" + file_extension\n        yield PATH\n    finally:\n        PATH = raw_path\n@contextmanager",
+        "detail": "advanced-python-features.decorators_1",
+        "documentation": {}
+    },
+    {
+        "label": "timing",
+        "kind": 2,
+        "importPath": "advanced-python-features.decorators_1",
+        "description": "advanced-python-features.decorators_1",
+        "peekOfCode": "def timing(msg):\n    start = time.time()\n    yield\n    end = time.time()\n    print(f\"{msg}: {end-start}\")\n@functools.lru_cache(maxsize=None) # memoization\ndef possible(idea):\n    print(f\"Hmm {idea}...\")\n    time.sleep(3)\n    return \"Very Interesting!\"",
+        "detail": "advanced-python-features.decorators_1",
+        "documentation": {}
+    },
+    {
+        "label": "possible",
+        "kind": 2,
+        "importPath": "advanced-python-features.decorators_1",
+        "description": "advanced-python-features.decorators_1",
+        "peekOfCode": "def possible(idea):\n    print(f\"Hmm {idea}...\")\n    time.sleep(3)\n    return \"Very Interesting!\"\ndef main():\n    msg = \"Running Time\"\n    idea = \"NewJeansNet\"\n    with timing(msg):\n        start_time = time.time()\n        for i in range(4):",
+        "detail": "advanced-python-features.decorators_1",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "advanced-python-features.decorators_1",
+        "description": "advanced-python-features.decorators_1",
+        "peekOfCode": "def main():\n    msg = \"Running Time\"\n    idea = \"NewJeansNet\"\n    with timing(msg):\n        start_time = time.time()\n        for i in range(4):\n            print(possible(idea))\n    arr = [1, 2]\n    with ignoring(IndexError, ZeroDivisionError):\n        print(arr[2])",
+        "detail": "advanced-python-features.decorators_1",
+        "documentation": {}
+    },
+    {
+        "label": "PATH",
+        "kind": 5,
+        "importPath": "advanced-python-features.decorators_1",
+        "description": "advanced-python-features.decorators_1",
+        "peekOfCode": "PATH = \"test.txt\"\n@contextmanager\ndef TemporaryPath(path):\n    global PATH # explicitly declare global variable\n    raw_path = path\n    try:\n        file_name, file_extension = os.path.splitext(path)\n        PATH = file_name + \"_temp\" + file_extension\n        yield PATH\n    finally:",
+        "detail": "advanced-python-features.decorators_1",
         "documentation": {}
     },
     {
